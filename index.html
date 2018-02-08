@@ -1,0 +1,89 @@
+---
+layout: main
+title: "Yipster"
+description: "Noticias, guías, reporter y más sobre el mundo de las criptomonedas y el blockchain. Bitcoin, Ethereum, Monero, etc"
+twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1506484574/yipsterco-twitter_xatbdv.jpg"
+cover: "http://res.cloudinary.com/yipster/image/upload/v1506483955/yipster-cover_yguc2u.jpg"
+url: 
+---
+
+<!-- Posts -->
+<div class="col-md-8 blog__content mb-30">
+
+<!-- large post -->
+
+  <h3 class="section-title">Últimas Noticias</h3>
+
+  <div class="row">
+    
+    {% for post in paginator.posts  %}
+    <div class="col-lg-6">
+      <article class="entry">                
+        <div class="entry__img-holder">
+          <a href="{{post.url}}" target="_blank">
+            <div class="thumb-container">
+              <img data-src="{{ post.cover}}" src="{{ post.cover}}" class="entry__img lazyload" alt="" />
+            </div>
+          </a>
+        </div>
+
+        <div class="entry__body">
+          <div class="entry__header">
+            <p class="entry__meta-category">{{ post.tags[0]}}</p>
+            <h2 class="entry__title">
+              <a href="{{post.url}}" target="_blank">
+                {{ post.title}}
+              </a>
+            </h2>
+            <ul class="entry__meta">
+              <li class="entry__meta-date">
+                {{ post.fecha}}
+              </li>
+            </ul>
+          </div>
+          <div class="entry__excerpt">
+            <p>
+              {{post.description}}
+            </p>
+          </div>
+        </div>
+      </article>
+    </div>
+    {% endfor %}
+
+    
+  </div>
+  <hr>
+  <!-- Pagination -->
+  {% if paginator.next_page %}
+
+  <div class="pagination clearfix">
+    
+    {% if paginator.previous_page_path %}
+    <div class="pagination__link left">
+      <a href="{{ paginator.previous_page_path }}" class="btn btn-lg btn-color">
+        <span>Adelante</span>
+      </a>
+    </div>
+    {%endif%}
+
+    {% if paginator.next_page_path %}
+    <div class="pagination__link right">
+      <a href="{{ paginator.next_page_path }}" class="btn btn-lg btn-color">
+        <span>Atrás</span>
+      </a>
+    </div>
+    {%endif%}
+  </div>
+  {% endif %}
+
+  
+
+</div> <!-- end posts -->
+
+            
+
+            
+
+              
+      

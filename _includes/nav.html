@@ -1,0 +1,60 @@
+<header class="nav">
+
+      <div class="nav__holder nav--sticky">
+        <div class="container relative">
+
+          <div class="flex-parent">
+
+            <!-- Mobile Menu Button -->
+            <button class="nav-icon-toggle" id="nav-icon-toggle" aria-label="Open mobile menu">
+              <span class="nav-icon-toggle__box">
+                <span class="nav-icon-toggle__inner"></span>
+              </span>
+            </button> <!-- end mobile menu button -->
+
+            <!-- Logo -->
+            <a href="{{ site.baseurl }}/" class="logo">
+              <img class="logo__img" src="{{ site.baseurl }}/img/logo_light.png" srcset="{{ site.baseurl }}/img/logo_light.png 1x, {{ site.baseurl }}/img/logo_light@2x.png 2x" alt="logo">
+            </a>
+
+            <!-- Nav-wrap -->
+            <nav class="flex-child nav__wrap d-none d-lg-block">              
+              <ul class="nav__menu">
+
+                <li>
+                  <a href="{{ site.baseurl }}/">Inicio</a>
+                </li>
+                <li>
+                  <a href="http://mag.yipster.co" target="_blank">Revista</a>
+                </li>
+
+
+              </ul> <!-- end menu -->
+            </nav> <!-- end nav-wrap -->
+
+            <!-- Nav Right -->
+            <div class="nav__right nav--align-right d-none d-lg-flex">
+
+              <!-- Socials -->
+              <div class="nav__right-item socials socials--nobase nav__socials "> 
+                <a class="social-facebook" href="https://www.facebook.com/yipster.crypto.7" target="_blank">
+                  <i class="ui-facebook"></i>
+                </a>
+                <a class="social-twitter" href="https://twitter.com/yipster0" target="_blank">
+                  <i class="ui-twitter"></i>
+                </a>
+                <a class="social-youtube" href="https://www.youtube.com/channel/UCoBpWiwwIR6_2rb-9gfwELA" target="_blank">
+                  <i class="ui-youtube"></i>
+                </a>
+              </div>
+
+
+            </div> <!-- end nav right -->  
+        
+          </div> <!-- end flex-parent -->
+        </div> <!-- end container -->
+
+      </div>
+    </header> <!-- end navigation -->
+
+    {% include mobile-side.html %}

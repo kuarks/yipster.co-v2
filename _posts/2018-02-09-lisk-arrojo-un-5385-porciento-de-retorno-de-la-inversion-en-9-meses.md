@@ -5,7 +5,7 @@ fecha: 9 de febrero del 2018
 description: LISK es una criptomoneda hecha por un grupo alemán y que aún tiene potencial para más retornos a pesar de la caída en el mercado de criptomonedas. El truco estará en su nueva estrategia.
 cover: http://res.cloudinary.com/yipster/image/upload/v1518200702/lisk_sjbgxl.jpg
 twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1518200702/lisk_sjbgxl.jpg
-categories: inversión 
+categories: inversion 
 tag: inversión
 comments: true
 ---

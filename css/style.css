@@ -420,7 +420,7 @@ hr {
 	text-decoration: none;
 	text-align: center;
 	border: 0;
-	border-radius: 5px;
+	border-radius: 1px;
 	-webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 	color: #fff;
@@ -523,7 +523,7 @@ select,
 textarea {
 	height: 40px;
 	border: 1px solid #e1e5e6;
-	border-radius: 5px;
+	border-radius: 1px;
 	background-color: #f4f6f6;
 	width: 100%;
 	margin-bottom: 24px;
@@ -1133,7 +1133,7 @@ input[type="radio"]:focus {
 /* Blog
 /*-------------------------------------------------------*/
 .section-title {
-	color: #E12A21;
+	color: #FB4A64;
 	margin-bottom: 20px;
 	font-weight: 700; }
 
@@ -3392,3 +3392,9 @@ input.sidenav__search-mobile-input:-ms-input-placeholder {
 	margin: 10px 34px 10px 0; }
 
 /*# sourceMappingURL=style.css.map */
+
+.tag {
+	background-color: #3FC0BC;
+	color: #fff;
+	padding: 4px;
+}

@@ -20,7 +20,11 @@ url:
     <div class="col-lg-6">
       <article class="entry">                
         <div class="entry__img-holder">
+          {% if post.outside_url %}
+          <a href="{{post.outside_url}}" target="_blank">
+          {% else %}
           <a href="{{post.url}}" target="_blank">
+          {% endif %}
             <div class="thumb-container">
               <img data-src="{{ post.cover}}" src="{{ post.cover}}" class="entry__img lazyload" alt="" />
             </div>
@@ -31,7 +35,11 @@ url:
           <div class="entry__header">
             <p class="entry__meta-category">{{ post.tags[0]}}</p>
             <h2 class="entry__title">
+              {% if post.outside_url %}
+              <a href="{{post.outside_url}}" target="_blank">
+              {% else %}
               <a href="{{post.url}}" target="_blank">
+              {% endif %}
                 {{ post.title}}
               </a>
             </h2>

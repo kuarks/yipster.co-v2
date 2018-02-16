@@ -34,5 +34,5 @@ Sigue estos pasos para comenzar con Brave:
 <br>
 
 <span style="color:#fff; background-color: #B61F69; padding: .6em;">
-    <a href="https://publishers.basicattentiontoken.org/" style="color: #fff;" target="_blank">Conviertete en Publisher</a>
+    <a href="https://publishers.basicattentiontoken.org/" style="color: #fff;" target="_blank">Conviértete en Publisher</a>
 </span>

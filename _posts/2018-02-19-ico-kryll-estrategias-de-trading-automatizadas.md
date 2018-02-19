@@ -2,7 +2,7 @@
 title: ICO Kryll estrategias de trading automatizadas
 layout: post
 fecha: 19 de febrero del 2018
-description: Kryll, proyecto que pretende crear un sistema con estrategias automatizadas de trading ha lanzado su ICO y nosotros nos hemos dado la tarea de revisarla y darte nuestras conclusiones. Su misión es "brindar herramientas profesionales de trading con un sistema simple de drag en drop".
+description: Kryll, proyecto que pretende crear un sistema con estrategias automatizadas de trading ha lanzado su ICO y nosotros nos hemos dado la tarea de revisarla y darte nuestras conclusiones. Su misión es "brindar herramientas profesionales de trading con un sistema simple de drag and drop".
 cover: http://res.cloudinary.com/yipster/image/upload/v1519076493/kryll-ico_k7ykok.jpg
 twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1519076493/kryll-ico_k7ykok.jpg
 categories: noticias 
@@ -33,7 +33,7 @@ Hay otro punto de alerta para nosotros y es que uno de los miembros del equipo e
 
 En cuanto a su estrategia de comunicación Kryll ha fallado en llegar a medios mainstream. 
 
-Otra situación rara es que sus campañas en los medios de información sobre criptomonedas recién comenzaron hace 17 días siendo que el ICO comenzaba el 7 de feberero lo que en el mejor de los casos significaría una mala planeación (¿por qué tanta prisa por lanzar y no esperarse para atraer más inversionistas?)
+Otra situación rara es que sus campañas en los medios de información sobre criptomonedas recién comenzaron hace 17 días siendo que el ICO comenzaba el 7 de febrero lo que en el mejor de los casos significaría una mala planeación (¿por qué tanta prisa por lanzar y no esperarse para atraer más inversionistas?)
 
 La realidad es que las metas no son muy realistas y mucho menos para el tiempo fijado por ellos mismos en su *roadmap* (diciembre del 2018)
 

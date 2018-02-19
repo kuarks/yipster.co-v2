@@ -62,7 +62,9 @@ Pero si aún estás convencid@ de que puede ser un buen proyecto para invertir p
 El costo por token es de 20 centavos de dólar y si inviertes en las próximas horas podrás llevarte un **bonus** del %5 al 10%.
 
 <p>
+    <a href="http://bit.ly/2EE8JkC" target="_blank">
     <img src="http://res.cloudinary.com/yipster/image/upload/v1519082668/kryll_threadesign_uavpuk.png" alt="Kryll ICO" width="100%">
+    </a>
 </p>
 
 

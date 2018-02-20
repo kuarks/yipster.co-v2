@@ -19,6 +19,10 @@ La preventa buscaría repartir 82.4 millones de tokens cada cual tendría un val
 
 La oferta al público general será en un mes.
 
+<p style="text-align: center;">
+    <img src="http://res.cloudinary.com/yipster/image/upload/v1519148677/petro-ditribution_bpiuxq.jpg" alt="Distribución del Petro" width="100%">
+</p>
+
 **Referencias:** 
 
 <ul>

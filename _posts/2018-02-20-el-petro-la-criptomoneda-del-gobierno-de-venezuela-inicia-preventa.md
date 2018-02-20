@@ -3,8 +3,8 @@ title: El Petro, la criptomoneda del gobierno de Venezuela inicia  preventa
 layout: post
 fecha: 20 de febrero del 2018
 description: El Petro es la criptomoneda del gobierno venezolano y esta es un token ERC20 (corre en Ethereum); su finalidad es evadir el bloqueo de los Estados Unidos. La preventa de tokens comenzó el día de hoy pero solamente para inversionistas institucionales como Qatar, Turquía, Europa, entre otros.
-cover: http://res.cloudinary.com/yipster/image/upload/v1519147581/petro-prico_lo3wfb.jpg
-twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1519147581/petro-prico_lo3wfb.jpg
+cover: https://res.cloudinary.com/yipster/image/upload/v1519147581/petro-prico_lo3wfb.jpg
+twitter_cover: https://res.cloudinary.com/yipster/image/upload/v1519147581/petro-prico_lo3wfb.jpg
 categories: noticias 
 tag: ico
 comments: true

@@ -5,8 +5,8 @@ fecha: 27 de septiembre del 2017
 description: "Noviembre es el mes en que se prevé la actualización de la red de bitcoin a SegWit2x y es por esta razón que ahora la comunidad ahora se ve muy dividida, incluso  más que hace unos meses cuando surgió Bitcoin Cash."
 categories: noticias
 tags: bitcoin hardfork SegWit2x split
-cover: http://res.cloudinary.com/yipster/image/upload/v1506529937/bitcoin-split_qs3k24.jpg
-twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1506529937/bitcoin-split_qs3k24.jpg
+cover: https://res.cloudinary.com/yipster/image/upload/v1506529937/bitcoin-split_qs3k24.jpg
+twitter_cover: https://res.cloudinary.com/yipster/image/upload/v1506529937/bitcoin-split_qs3k24.jpg
 comments: true
 ---
 

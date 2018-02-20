@@ -3,8 +3,8 @@ title: ICO Kryll estrategias de trading automatizadas
 layout: post
 fecha: 19 de febrero del 2018
 description: Kryll, proyecto que pretende crear un sistema con estrategias automatizadas de trading ha lanzado su ICO y nosotros nos hemos dado la tarea de revisarla y darte nuestras conclusiones. Su misión es "brindar herramientas profesionales de trading con un sistema simple de drag and drop".
-cover: http://res.cloudinary.com/yipster/image/upload/v1519076493/kryll-ico_k7ykok.jpg
-twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1519076493/kryll-ico_k7ykok.jpg
+cover: https://res.cloudinary.com/yipster/image/upload/v1519076493/kryll-ico_k7ykok.jpg
+twitter_cover: https://res.cloudinary.com/yipster/image/upload/v1519076493/kryll-ico_k7ykok.jpg
 categories: noticias 
 tag: revisión
 comments: true

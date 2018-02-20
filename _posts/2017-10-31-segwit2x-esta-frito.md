@@ -3,8 +3,8 @@ title: SegWit2x está frito!
 layout: post
 fecha: 31 de octubre del 2017
 description: "Como sabemos SegWit2x, en delante B2X, es la campaña propagandística de un grupo de individuos y empresas luchando por hacerse con el nombre de Bitcoin para de esta manera hacer que su propio proyecto basura haga más dinero para ellos."
-cover: "http://res.cloudinary.com/yipster/raw/upload/v1509475874/segwit2x-shit_xzidkq.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/raw/upload/v1509475874/segwit2x-shit_xzidkq.jpg"
+cover: "https://res.cloudinary.com/yipster/raw/upload/v1509475874/segwit2x-shit_xzidkq.jpg"
+twitter_cover: "https://res.cloudinary.com/yipster/raw/upload/v1509475874/segwit2x-shit_xzidkq.jpg"
 categories: noticias 
 tags: bitcoin segwit2x b2x
 comments: true

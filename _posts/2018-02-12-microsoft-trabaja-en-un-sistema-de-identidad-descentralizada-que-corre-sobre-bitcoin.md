@@ -3,9 +3,9 @@ title: Microsoft trabaja en un sistema de identidad descentralizada que corre so
 layout: post
 fecha: 12 de febrero del 2018
 description: Microsoft anunció la adopción de Bitcoin y Ethereum para un sistema de identidad descentralizada. En este sistema tu controlas tu información y no un gobierno o empresa.
-cover: http://res.cloudinary.com/yipster/image/upload/v1518472422/microsoft-descentrilized-identity_j3vd7x.jpg
-twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1518472422/microsoft-descentrilized-identity_j3vd7x.jpg
-image: http://res.cloudinary.com/yipster/image/upload/v1518472422/microsoft-descentrilized-identity_j3vd7x.jpg
+cover: https://res.cloudinary.com/yipster/image/upload/v1518472422/microsoft-descentrilized-identity_j3vd7x.jpg
+twitter_cover: https://res.cloudinary.com/yipster/image/upload/v1518472422/microsoft-descentrilized-identity_j3vd7x.jpg
+image: https://res.cloudinary.com/yipster/image/upload/v1518472422/microsoft-descentrilized-identity_j3vd7x.jpg
 categories: noticias 
 tag: noticias
 comments: true

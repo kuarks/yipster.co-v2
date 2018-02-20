@@ -3,8 +3,8 @@ title: La busqueda extraterreste se ve afectada por la mineria de criptomonedas
 layout: post
 fecha: 13 de febrero del 2018 
 description: El furor en torno a las criptomonedas ha traído una creciente demanda sobre las tarjetas de video y esto ha golpeado a los lugares menos esperados como als SETI y su búsqueda de vide extraterrestre. 
-cover: http://res.cloudinary.com/yipster/image/upload/v1518818711/seti_mxzbzv.jpg
-twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1518818711/seti_mxzbzv.jpg
+cover: https://res.cloudinary.com/yipster/image/upload/v1518818711/seti_mxzbzv.jpg
+twitter_cover: https://res.cloudinary.com/yipster/image/upload/v1518818711/seti_mxzbzv.jpg
 categories: noticias 
 tag: noticia
 comments: true

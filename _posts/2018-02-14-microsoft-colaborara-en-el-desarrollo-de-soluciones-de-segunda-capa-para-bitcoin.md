@@ -3,12 +3,12 @@ title: Microsoft colaborara en el desarrollo de soluciones de segunda capa para 
 layout: post
 fecha: 14 de febrero del 2018
 description: Microsoft ha anunciado su intención de colaborar con la comunidad de Bitcoin y otras criptomonedas para la mejora de las tecnologías de segunda capa y es que de acuerdo a Alex Simons (director de manejo de programas dentro del proyecto de Identidad Descentralizada de Microsoft) estas soluciones son la mejor manera de escalar Bitcoin.
-cover: http://res.cloudinary.com/yipster/image/upload/v1518817790/microsoft-loves-opensource_n82ez6.jpg
-twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1518817790/microsoft-loves-opensource_n82ez6.jpg
+cover: https://res.cloudinary.com/yipster/image/upload/v1518817790/microsoft-loves-opensource_n82ez6.jpg
+twitter_cover: https://res.cloudinary.com/yipster/image/upload/v1518817790/microsoft-loves-opensource_n82ez6.jpg
 categories: noticias 
 tag: colaboracion
 comments: true
-url: http://bitcoinist.com/farewell-bitcoin-cash-microsoft-chain-scaling-degrades-decentralization/
+url: https://bitcoinist.com/farewell-bitcoin-cash-microsoft-chain-scaling-degrades-decentralization/
 ---
 
 Microsoft ha anunciado su intención de colaborar con la comunidad de Bitcoin y otras criptomonedas para la mejora de las tecnologías de segunda capa y es que de acuerdo a Alex Simons (director de manejo de programas dentro del proyecto de Identidad Descentralizada de Microsoft) estas soluciones son la mejor manera de escalar Bitcoin.

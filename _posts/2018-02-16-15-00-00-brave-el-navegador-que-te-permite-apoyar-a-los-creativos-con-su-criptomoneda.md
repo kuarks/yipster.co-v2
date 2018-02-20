@@ -3,8 +3,8 @@ title: "Brave: el navegador que te permite apoyar a los creativos con su criptom
 layout: post
 fecha: 16 de febrero del 2018
 description: El sistema tradicional explota al creativo (llámese músico, youtuber, escritor, etc); estamos hablando de empresas como youtube o medium que lucran con las creaciones de otros sin que el creador sea bien recompensado por ello. Brave quiere cambiar eso con su navegador y criptomoneda.
-cover: http://res.cloudinary.com/yipster/image/upload/v1518822194/brave-creators-browser_z7zjr5.jpg
-twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1518822194/brave-creators-browser_z7zjr5.jpg
+cover: https://res.cloudinary.com/yipster/image/upload/v1518822194/brave-creators-browser_z7zjr5.jpg
+twitter_cover: https://res.cloudinary.com/yipster/image/upload/v1518822194/brave-creators-browser_z7zjr5.jpg
 categories: noticias 
 tag: internet money
 comments: true

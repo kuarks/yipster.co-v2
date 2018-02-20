@@ -3,8 +3,8 @@ title: Ya viene Bitcoin Gold ¿sabes cómo sacar provecho de ello?
 layout: post
 fecha: 20 de octubre del 2017
 description: Una nueva criptomoneda nacerá a partir de Bitcoin en sólo 3 días. Esto quiere decir que quienes tengan inversión en Bitcoin podrían obtener rendimientos extra por esta división.
-cover: "http://res.cloudinary.com/yipster/image/upload/v1508537560/bitcoin-gold_d6pjkw.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1508537560/bitcoin-gold_d6pjkw.jpg"
+cover: "https://res.cloudinary.com/yipster/image/upload/v1508537560/bitcoin-gold_d6pjkw.jpg"
+twitter_cover: "https://res.cloudinary.com/yipster/image/upload/v1508537560/bitcoin-gold_d6pjkw.jpg"
 categories: tutorial 
 tags: bitcoin bitcoingold
 comments: true

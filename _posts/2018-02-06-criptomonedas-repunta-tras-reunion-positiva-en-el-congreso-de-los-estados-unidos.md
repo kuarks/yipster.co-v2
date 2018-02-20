@@ -3,8 +3,8 @@ title: Criptomonedas repuntan tras reunión en el congreso de los Estados Unidos
 layout: post
 fecha: 6 de febrero del 2018
 description: Presidentes del SEC y del CFTC se reunen con senadores para dialogar sobre criptomonedas y el resultado positivo hizo que Bitcoin resurgiera de $6000 USD a $8000 USD.
-cover: http://res.cloudinary.com/yipster/image/upload/v1518133168/giancarlo_vwm8og.jpg
-twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1518133168/giancarlo_vwm8og.jpg
+cover: https://res.cloudinary.com/yipster/image/upload/v1518133168/giancarlo_vwm8og.jpg
+twitter_cover: https://res.cloudinary.com/yipster/image/upload/v1518133168/giancarlo_vwm8og.jpg
 categories: noticias 
 tag: criptomonedas
 comments: true

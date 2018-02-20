@@ -3,8 +3,8 @@ title: SegWit2x ¿qué es y por qué importa?
 layout: post
 fecha: 6 de octubre del 2017
 description: "La historia de SegWit2x es una historia por el control de Bitcoin, hay muchas cuestiones técnicas pero estas sólo buscan alejarnos de la verdadera intención que pretende esta actualización del protocolo."
-cover: "http://res.cloudinary.com/yipster/image/upload/v1507328680/segwit2x_q9kuwa.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1507328680/segwit2x_q9kuwa.jpg"
+cover: "https://res.cloudinary.com/yipster/image/upload/v1507328680/segwit2x_q9kuwa.jpg"
+twitter_cover: "https://res.cloudinary.com/yipster/image/upload/v1507328680/segwit2x_q9kuwa.jpg"
 categories: referencia 
 tags: segwit2x bitcoin criptomoneda
 comments: true

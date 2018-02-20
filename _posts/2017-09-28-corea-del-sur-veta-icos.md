@@ -5,8 +5,8 @@ fecha: 29 de septiembre del 2017
 description: "El regulador financiero de Corea del Sur ha anunciado este viernes el la medida de vetar todo forma de levantar fondos a través de criptomonedas principalmente.."
 categories: noticias
 tags: corea veto criptomonedas
-cover: http://res.cloudinary.com/yipster/image/upload/v1506662181/corea-ico-ban_alv8rm.jpg
-twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1506662181/corea-ico-ban_alv8rm.jpg"
+cover: https://res.cloudinary.com/yipster/image/upload/v1506662181/corea-ico-ban_alv8rm.jpg
+twitter_cover: "https://res.cloudinary.com/yipster/image/upload/v1506662181/corea-ico-ban_alv8rm.jpg"
 comments: true
 ---
 

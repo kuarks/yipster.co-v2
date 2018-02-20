@@ -3,8 +3,8 @@ title: 'Veto de China: señal para comprar más criptomonedas'
 layout: post
 fecha: 25 de septiembre del 2017
 description: "El reciente veto de China sobre las criptomonedas podría ayudar repuntar el valor de las criptomonedas y llevar el mercado a nuevos niveles no antes vistos."
-cover: "http://res.cloudinary.com/yipster/image/upload/v1506530298/china-ban_nlatij.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1506530298/china-ban_nlatij.jpg"
+cover: "https://res.cloudinary.com/yipster/image/upload/v1506530298/china-ban_nlatij.jpg"
+twitter_cover: "https://res.cloudinary.com/yipster/image/upload/v1506530298/china-ban_nlatij.jpg"
 categories: noticias 
 tags: ban china bitcoin invertir
 url: "/noticias/2017/09/25/veto-de-china-senal-para-comprar-mas-criptomonedas.html"

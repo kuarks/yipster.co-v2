@@ -3,8 +3,8 @@ title: Cómo comprar criptomonedas en Bitso
 layout: post
 fecha: 19 de octubre del 2017
 description: "La manera más fácil de comprar Bitcoins en México es quizá a través de la compañía Bitso. Aprende a comprar criptomonedas desde tu cuenta."
-cover: "http://res.cloudinary.com/yipster/image/upload/v1508478155/bitso-tut-2_sx6lk3.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1508478155/bitso-tut-2_sx6lk3.jpg"
+cover: "https://res.cloudinary.com/yipster/image/upload/v1508478155/bitso-tut-2_sx6lk3.jpg"
+twitter_cover: "https://res.cloudinary.com/yipster/image/upload/v1508478155/bitso-tut-2_sx6lk3.jpg"
 categories: tutorial
 tags: bitso criptomoneda invertir
 comments: true

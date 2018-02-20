@@ -5,8 +5,8 @@ fecha: 29 de septiembre del 2017
 description: "Se encontró que 6 de cada 10 grandes empresas están considerando seriamente integrar el blockchain en sus sistema o ya están en el proceso de hacerlo."
 categories: noticias
 tags: blockchain investigacion
-cover: "http://res.cloudinary.com/yipster/image/upload/v1506741418/6-of-10-companies-adopting-blockchain_pn3oe0.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1506741418/6-of-10-companies-adopting-blockchain_pn3oe0.jpg"
+cover: "https://res.cloudinary.com/yipster/image/upload/v1506741418/6-of-10-companies-adopting-blockchain_pn3oe0.jpg"
+twitter_cover: "https://res.cloudinary.com/yipster/image/upload/v1506741418/6-of-10-companies-adopting-blockchain_pn3oe0.jpg"
 comments: true
 ---
 

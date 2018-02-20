@@ -3,8 +3,8 @@ title: Estamos estrenando app y te mostramos nuestro Roadmap
 layout: post
 fecha: 16 de febrero del 2018
 description: Hemos lanzado nuestra aplicación Yipster News y su finalidad es mantenerte informado sobre el mundo de las criptomonedas e Internet del dinero además de brindar información útil para emprendedores o aquellos que desean incursionar en el mundo de la inversión en el sector de las criptodivisas.
-cover: http://res.cloudinary.com/yipster/image/upload/v1518817402/yipster-app-news_qxubw7.jpg
-twitter_cover: http://res.cloudinary.com/yipster/image/upload/v1518817402/yipster-app-news_qxubw7.jpg
+cover: https://res.cloudinary.com/yipster/image/upload/v1518817402/yipster-app-news_qxubw7.jpg
+twitter_cover: https://res.cloudinary.com/yipster/image/upload/v1518817402/yipster-app-news_qxubw7.jpg
 categories: noticias 
 tag: app
 comments: true

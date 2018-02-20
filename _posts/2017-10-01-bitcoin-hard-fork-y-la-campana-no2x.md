@@ -5,8 +5,8 @@ fecha: 1 de octubre del 2017
 description: 'NO2X se refiere a la reciente campaña en contra de la actualización de Bitcoin a SegWit2x o btc1.'
 categories: noticias
 tags: bitcoin marketcap
-cover: "http://res.cloudinary.com/yipster/image/upload/v1506927662/bitcoin-split-no2x_z8pejv.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1506927662/bitcoin-split-no2x_z8pejv.jpg"
+cover: "https://res.cloudinary.com/yipster/image/upload/v1506927662/bitcoin-split-no2x_z8pejv.jpg"
+twitter_cover: "https://res.cloudinary.com/yipster/image/upload/v1506927662/bitcoin-split-no2x_z8pejv.jpg"
 comments: true
 ---
 

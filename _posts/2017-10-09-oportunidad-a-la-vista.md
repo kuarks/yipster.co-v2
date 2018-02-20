@@ -3,8 +3,8 @@ title: Oportunidad a la vista
 layout: post
 fecha: 9 de octubre del 2017
 description: "Los recientes eventos entorno al bitcoin, más específicamente en relación a Bitcoin Gold, fork anunciado para este 25 de octubre, ha traído un éxodo masivo de capital de las altcoins (criptomonedas otras que bitcoin) hacia bitcoin y la razón para esto es que los usuarios están esperando un acontecimiento igual al sucedido con el anterior fork, Bitcoin Cash."
-cover: "http://res.cloudinary.com/yipster/image/upload/v1507589493/oportunidad-a-la-vista_wkxopm.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1507589493/oportunidad-a-la-vista_wkxopm.jpg"
+cover: "https://res.cloudinary.com/yipster/image/upload/v1507589493/oportunidad-a-la-vista_wkxopm.jpg"
+twitter_cover: "https://res.cloudinary.com/yipster/image/upload/v1507589493/oportunidad-a-la-vista_wkxopm.jpg"
 categories: noticias 
 tags: oportunidad lisk litecoin omisego ethereum
 comments: true

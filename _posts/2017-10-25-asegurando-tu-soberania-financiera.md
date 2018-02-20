@@ -3,8 +3,8 @@ title: Asegurando tu soberanía financiera
 layout: post
 fecha: 25 de octubre del 2017
 description: 2017 está resultando ser el año de los **forks**. Primero Bitcoin Cash, después Bitcoin Gold y ahora SegWit2x. Todo esto está resultando en un ecosistema más confuso de lo que ya era puesto que muchos de estos forks lo único que buscan es hacerse con el título del "Bitcoin verdadero".
-cover: "http://res.cloudinary.com/yipster/raw/upload/v1509476186/asegurando_wquwvx.jpg"
-twitter_cover: "http://res.cloudinary.com/yipster/raw/upload/v1509476186/asegurando_wquwvx.jpg"
+cover: "https://res.cloudinary.com/yipster/raw/upload/v1509476186/asegurando_wquwvx.jpg"
+twitter_cover: "https://res.cloudinary.com/yipster/raw/upload/v1509476186/asegurando_wquwvx.jpg"
 categories: noticias 
 tags: hardfork SegWit2x bitcoin
 comments: true

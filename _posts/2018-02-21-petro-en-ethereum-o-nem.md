@@ -15,6 +15,8 @@ El día de ayer Venezuela lanzó preventa de su criptomoneda, el Petro. Nosotros
 
 Lo único que se puede ver tras esta situación (en el contexto económico) es que el gobierno parece ir sin una estrategia y tomando desiciones al *ay se va*.
 
+Al momento de esta publicación el whitepaper ya ha sido editado pero hemos guardado la versión anterior y la tenemos disponible aquí para tu propia revisión. <a href="https://res.cloudinary.com/yipster/image/upload/v1519241081/Whitepaper_Petro_bgvbou.pdf" target="_blank">Descargar white paper anterior.</a>
+
 ¿Qué opinas tú? ¿Debieron ser más cuidadosos a la hora de elegir una tecnología antes que arrebatarse a lanzar algo sin planearlo?
 
 
@@ -43,4 +45,5 @@ Lo único que se puede ver tras esta situación (en el contexto económico) es q
 <p style="text-align: center; font-size: .8em;">
     Tweet con anuncio oficial del gobierno y el uso de NEM para el Petro.
 </p>
+
 

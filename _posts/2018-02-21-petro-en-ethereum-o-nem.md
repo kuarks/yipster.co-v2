@@ -39,7 +39,7 @@ Al momento de esta publicación el whitepaper ya ha sido editado pero hemos guar
 
 <br>
 <p style="text-align: center;">
-    <img src="http://res.cloudinary.com/yipster/image/upload/v1519240118/nem-petro-oficial_mlbaxi.jpg" alt="Petro oficilamente en NEM" width="100%">
+    <img src="https://res.cloudinary.com/yipster/image/upload/v1519240118/nem-petro-oficial_mlbaxi.jpg" alt="Petro oficilamente en NEM" width="100%">
 </p>
 
 <p style="text-align: center; font-size: .8em;">
@@ -47,3 +47,15 @@ Al momento de esta publicación el whitepaper ya ha sido editado pero hemos guar
 </p>
 
 
+**Referencias**
+
+<ul>
+    <li>
+        <a href="http://elpetro.gob.ve/" target="_blank">Sitio oficial del Petro</a>
+    </li>
+    <li>
+        <a href="http://elpetro.gob.ve/docs/MANUAL%20COMPRADOR%20VERSION%20BETA.pdf" target="_blank">
+            Manual del comprador (Petro)
+        </a>
+    </li>
+</ul>

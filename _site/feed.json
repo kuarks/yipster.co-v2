@@ -1,0 +1,878 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Yipster",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Noticias sobre criptomonedas, inversiones y  blockchain.\n",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/06/24/choon-el-spotify-en-el-blockchain-que-te-paga-m%C3%A1s-por-tu-m%C3%BAsica.html",
+            "title": "Choon: el Spotify en el blockchain que te paga más por tu música",
+            "summary": "Si comparamos iTunes y Spotify, en cuanto a ganancias, te darás cuenta que Spotify genera más ingresos que iTunes y esto es ridículo desde el punto de vista del músico ya que iTunes tiene más beneficios económicos para los artistas que Spotify",
+            "content_text": "Con toda seguridad estás familiarizado con Spotify y si eres compositor/a hasta has de publicar tu música ahí pero Spotify tiene un gran problema, apesta para los músicos.Si comparamos iTunes y Spotify, en cuanto a ganancias, te darás cuenta que Spotify genera más ingresos que iTunes y esto es ridículo desde el punto de vista del músico ya que iTunes tiene más beneficios económicos para los artistas que Spotify; iTunes brinda el 70% de las regalías mientras que Spotify tiene unas tarifas más complicadas debido a que es un servicio de streaming pero algunos artistas reportan que Spotify solamente les genera un 23% de los que iTunes o Apple Music les genera.Realiza tus cálculos de ganancias por streaming con esta calculadora: http://www.royaltycalc.com/La reaildad es que no es algo nuevo el descontento de los artistas con Spotify pero la finalidad de este artículo no es echar más tierra a la compañía de streaming si no hablarte de las opciones más recientes que tienes y por que valdría la pena probarlas.Choon es un Spotify que usa el blockchain de Ethereum para una administración transparente de las regalías de los artistas, y si no sabes que es Ethereum o el Blockchain piensa en ello como un sistema que nadie puede alterar para su beneficio.¿Sabes todas las variables que toma en cuenta Spotify para pagarte lo que te paga? o ¿tienes la certeza de que es totalmente cristalino con tus ganancias? ¿cómo saber si su sistema no hace trampa a la hora de decirte que sólo tuviste 100 streams de x canción?El blockchain te ayuda a tener esa transparencia y eso es lo que hace Choon interesante.Pero no todo termina ahí, otra de las funcionalidades de Choon es que tu defines las ganancias de terceros (en un momento regreso a este punto para que entienda por que es así) y tu pagas a Choon una pequeña comisión (tú controlas el capital).¿Yo defino las ganancias de tereceros? Así es y la razón para esto es que Choon permite a sus usuarios crear playlists con sus canciones favoritas (que pueden ser tus canciones) y compartir estas en las redes sociales o con sus amigos. Si estos amigos se hacen usuarios de Choon y escuchan estos playlists el usuario que creó el playlis recibe un porcentaje de las regalías tuyas.¿No te agrada la idea?No te apures si no lo deseas puedes omitir ganancias para estos usuarios pero la realidad es que como estrategia para darse a conocer y llegar a un público más amplio esta funcionalidad puede ser de mucha ayuda y de hecho muchos de los artistas saben esto y están otorgando un 25% hasta el 100% de pago; mientras mejor incentivados estén los usuarios para compartir tu música más rápido crecerá tu público.Debes de saber que Choon es un proyecto joven y los pagos se realizan en su criptomoneda NOTES (token ERC20 de Ethereum).Si deseas un video tutorial paso a paso, desde darte de alta en el sistema hasta subir tus canciones o crear playlists, échame un grito al siguiente correo: rs@yipster.coSitio de Choonhttps://choon.co/",
+            "content_html": "<p>Con toda seguridad estás familiarizado con Spotify y si eres compositor/a hasta has de publicar tu música ahí pero Spotify tiene un gran problema, apesta para los músicos.</p><p>Si comparamos iTunes y Spotify, en cuanto a ganancias, te darás cuenta que Spotify genera más ingresos que iTunes y esto es ridículo desde el punto de vista del músico ya que iTunes tiene más beneficios económicos para los artistas que Spotify; iTunes brinda el 70% de las regalías mientras que Spotify tiene unas tarifas más complicadas debido a que es un servicio de streaming pero algunos artistas reportan que Spotify solamente les genera un 23% de los que iTunes o Apple Music les genera.</p><p>Realiza tus cálculos de ganancias por streaming con esta calculadora: <a href=\"http://www.royaltycalc.com/\">http://www.royaltycalc.com/</a></p><p>La reaildad es que no es algo nuevo el descontento de los artistas con Spotify pero la finalidad de este artículo no es echar más tierra a la compañía de streaming si no hablarte de las opciones más recientes que tienes y por que valdría la pena probarlas.</p><p>Choon es un Spotify que usa el blockchain de Ethereum para una administración transparente de las regalías de los artistas, y si no sabes que es Ethereum o el Blockchain piensa en ello como un sistema que nadie puede alterar para su beneficio.</p><p>¿Sabes todas las variables que toma en cuenta Spotify para pagarte lo que te paga? o ¿tienes la certeza de que es totalmente cristalino con tus ganancias? ¿cómo saber si su sistema no hace trampa a la hora de decirte que sólo tuviste 100 streams de x canción?</p><p>El blockchain te ayuda a tener esa transparencia y eso es lo que hace Choon interesante.</p><p>Pero no todo termina ahí, otra de las funcionalidades de Choon es que tu <strong>defines las ganancias de terceros</strong> (en un momento regreso a este punto para que entienda por que es así) y tu pagas a Choon una pequeña comisión (tú controlas el capital).</p><p>¿Yo defino las ganancias de tereceros? Así es y la razón para esto es que Choon permite a sus usuarios crear <strong>playlists</strong> con sus canciones favoritas (que pueden ser tus canciones) y compartir estas en las redes sociales o con sus amigos. Si estos amigos se hacen usuarios de Choon y escuchan estos playlists el usuario que creó el <strong>playlis</strong> recibe un porcentaje de las regalías tuyas.</p><p>¿No te agrada la idea?No te apures si no lo deseas puedes omitir ganancias para estos usuarios pero la realidad es que como estrategia para darse a conocer y llegar a un público más amplio esta funcionalidad puede ser de mucha ayuda y de hecho muchos de los artistas saben esto y están otorgando un 25% hasta el 100% de pago; mientras mejor incentivados estén los usuarios para compartir tu música más rápido crecerá tu público.</p><p>Debes de saber que Choon es un proyecto joven y los pagos se realizan en su criptomoneda <strong>NOTES</strong> (token ERC20 de Ethereum).</p><p>Si deseas un video tutorial paso a paso, desde darte de alta en el sistema hasta subir tus canciones o crear playlists, échame un grito al siguiente correo: <a href=\"rs@yipster.co\">rs@yipster.co</a></p><p>Sitio de Choon<a href=\"https://choon.co/\">https://choon.co/</a></p>",
+            "url": "http://localhost:4000/noticias/2018/06/24/choon-el-spotify-en-el-blockchain-que-te-paga-m%C3%A1s-por-tu-m%C3%BAsica.html",
+            "cover": "http://res.cloudinary.com/yipster/image/upload/v1529862760/choon-better-spotify_wrbol2.jpg",
+            "date": "24 de Junio del 2018",
+            "tag": "choon",
+            
+            
+            
+            
+            
+            "date_published": "2018-06-24T10:44:00-06:00",
+            "date_modified": "2018-06-24T10:44:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/22/gobierno-de-venezuela-podria-congelar-fondos-de-cualquier-usuario-de-petro.html",
+            "title": "Gobierno de Venezuela podría congelar fondos de cualquier usuario del Petro",
+            "summary": "Recientemente NEM anunció está trabajando en un sistema de \"etiquetado y congelamiento\" (tag and freeze) lo que quiere decir que los fondos de quien se decida no cumpla con ciertas reglas (de NEM o sus clientes) podrán ser decomisados.",
+            "content_text": "Recientemente NEM anunció está trabajando en un sistema de “etiquetado y congelamiento” (tag and freeze) lo que quiere decir que los fondos de quien se decida no cumpla con ciertas reglas (de NEM o sus clientes) podrán ser decomisados.La idea detrás de esta característica es recuperar fondos robados, perdidos o alojados en una cuenta de quien “se sabe es criminal”. Esto no es buena idea puesto que no podemos confiar en los  que  deciden que y quien es decomisable o criminal.NEM le estaría brindando este control al gobierno Venezolano y este factor hace del Petro un asset nada fiable y de cual sería mejor estar alejado.1/ @coincheckjp hack update: NEM is creating an automated tagging system that will be ready in 24-48 hours. This automated system will follow the money and tag any account that receives tainted money. NEM has already shown exchanges how to check if an account has been tagged.&mdash; Inside NEM (@Inside_NEM) January 26, 2018",
+            "content_html": "<p>Recientemente NEM anunció está trabajando en un sistema de “etiquetado y congelamiento” (tag and freeze) lo que quiere decir que los fondos de quien se decida no cumpla con ciertas reglas (de NEM o sus clientes) podrán ser decomisados.</p><p>La idea detrás de esta característica es recuperar fondos robados, perdidos o alojados en una cuenta de quien “se sabe es criminal”. Esto no es buena idea puesto que no podemos confiar en los  que  deciden que y quien es decomisable o criminal.</p><p>NEM le estaría brindando este control al gobierno Venezolano y este factor hace del Petro un asset nada fiable y de cual sería mejor estar alejado.</p><blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">1/ <a href=\"https://twitter.com/coincheckjp?ref_src=twsrc%5Etfw\">@coincheckjp</a> hack update: NEM is creating an automated tagging system that will be ready in 24-48 hours. This automated system will follow the money and tag any account that receives tainted money. NEM has already shown exchanges how to check if an account has been tagged.</p>&mdash; Inside NEM (@Inside_NEM) <a href=\"https://twitter.com/Inside_NEM/status/956964401399156736?ref_src=twsrc%5Etfw\">January 26, 2018</a></blockquote><script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+            "url": "http://localhost:4000/noticias/2018/02/22/gobierno-de-venezuela-podria-congelar-fondos-de-cualquier-usuario-de-petro.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1519325210/nem-petro-tag-and-freeze_h0iema.jpg",
+            "date": "22 de febrero del 2018",
+            "tag": "petro",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-22T00:00:00-07:00",
+            "date_modified": "2018-02-22T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/21/la-cftc-ofrece-100000-dolares-a-quien-denuncie-pump-and-dumps.html",
+            "title": "La CFTC ofrece $100,000 dólares a quien denuncie Pump and Dumps",
+            "summary": "Los reguladores en Estados Unidos están buscando métodos para disuadir a estafadores en criptomonedas y más específicamente con uno de los esquemas más conocidos en el sector, los Pumps and Dumps.",
+            "content_text": "Los reguladores en Estados Unidos están buscando métodos para disuadir a estafadores en criptomonedas y más específicamente con uno de los esquemas más conocidos en el sector, los Pumps and Dumps.Para ello la CFTC está ofreciendo recompensas para aquellos que logren birndar información original que lleven al arresto de los promotores de estos moviemientos y que sean de 1 millón para arriba.Si tu información lleva al arresto de uno de estos promotores la recompensa será del 10% al 30% del monto total del Pump and Dump.Para más informacion revisa este documento oficial de la CFTC:    Customer Advisory: Beware Virtual Currency Pump-and-DumpSchemes",
+            "content_html": "<p>Los reguladores en Estados Unidos están buscando métodos para disuadir a estafadores en criptomonedas y más específicamente con uno de los esquemas más conocidos en el sector, los Pumps and Dumps.</p><p>Para ello la CFTC está ofreciendo recompensas para aquellos que logren birndar información original que lleven al arresto de los promotores de estos moviemientos y que sean de 1 millón para arriba.</p><p>Si tu información lleva al arresto de uno de estos promotores la recompensa será del 10% al 30% del monto total del Pump and Dump.</p><p>Para más informacion revisa este documento oficial de la CFTC:</p><p><a href=\"http://www.cftc.gov/idc/groups/public/@customerprotection/documents/file/customeradvisory_pumpdump0218.pdf\" target=\"_blank\">    Customer Advisory: Beware Virtual Currency Pump-and-DumpSchemes</a></p>",
+            "url": "http://localhost:4000/noticias/2018/02/21/la-cftc-ofrece-100000-dolares-a-quien-denuncie-pump-and-dumps.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1519280313/pump-and-dump_duurxu.jpg",
+            "date": "21 de febrero del 2018",
+            "tag": "recompensa",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-21T00:00:00-07:00",
+            "date_modified": "2018-02-21T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/21/00-00-petro-en-ethereum-o-nem.html",
+            "title": "Petro ¿sobre Ethereum o NEM?",
+            "summary": "El día de ayer Venezuela lanzó preventa de su criptomoneda,el Petro. Nosotros hablamos de ello y mencionamos que el Petro era un token ERC20 y esto era de acuerdo a su white paper; sin embargo en la guía para invertir se menciona a NEM como el sistema detrás del Petro. Esto es un inicio con el pie izquierdo para el Petro.",
+            "content_text": "El día de ayer Venezuela lanzó preventa de su criptomoneda, el Petro. Nosotros hablamos de ello y mencionamos que el Petro era un token ERC20 y esto era de acuerdo a su white paper (documento oficial); sin embargo en la guía para invertir (también documento oficial) se menciona a NEM como el sistema que se usaría oficialmente para el Petro. Esto es un inicio con el pie izquierdo para el Petro debido a que crea un halo de confusión y desconfianza que no le ayuda en nada al gobierno que de por sí ya tiene una mala imagen en el mundo (independientemente de si es justificada o no).Lo único que se puede ver tras esta situación (en el contexto económico) es que el gobierno parece ir sin una estrategia y tomando desiciones al ay se va.Al momento de esta publicación el whitepaper ya ha sido editado pero hemos guardado la versión anterior y la tenemos disponible aquí para tu propia revisión. Descargar white paper anterior.¿Qué opinas tú? ¿Debieron ser más cuidadosos a la hora de elegir una tecnología antes que arrebatarse a lanzar algo sin planearlo?        Captura de la sección del whitepaper que menciona el uso de Ethereum.        Captura del manual que menciona el uso de **NEM**.        Tweet con anuncio oficial del gobierno y el uso de NEM para el Petro.Referencias            Sitio oficial del Petro                            Manual del comprador (Petro)            ",
+            "content_html": "<p>El día de ayer Venezuela lanzó preventa de su criptomoneda, el Petro. Nosotros hablamos de ello y mencionamos que el Petro era un token ERC20 y esto era de acuerdo a su <strong>white paper</strong> (documento oficial); sin embargo en la guía para invertir (también documento oficial) se menciona a <strong>NEM</strong> como el sistema que se usaría oficialmente para el Petro. Esto es un inicio con el pie izquierdo para el Petro debido a que crea un halo de confusión y desconfianza que no le ayuda en nada al gobierno que de por sí ya tiene una mala imagen en el mundo (independientemente de si es justificada o no).</p><p>Lo único que se puede ver tras esta situación (en el contexto económico) es que el gobierno parece ir sin una estrategia y tomando desiciones al <em>ay se va</em>.</p><p>Al momento de esta publicación el whitepaper ya ha sido editado pero hemos guardado la versión anterior y la tenemos disponible aquí para tu propia revisión. <a href=\"https://res.cloudinary.com/yipster/image/upload/v1519241081/Whitepaper_Petro_bgvbou.pdf\" target=\"_blank\">Descargar white paper anterior.</a></p><p>¿Qué opinas tú? ¿Debieron ser más cuidadosos a la hora de elegir una tecnología antes que arrebatarse a lanzar algo sin planearlo?</p><p style=\"text-align: center;\">    <img src=\"https://res.cloudinary.com/yipster/image/upload/v1519239809/petro-erc20_lbckr8.jpg\" alt=\"White Paper ERC20\" width=\"100%\" /></p><p style=\"text-align: center; font-size: .8em;\">    Captura de la sección del <i>whitepaper</i> que menciona el uso de Ethereum.</p><p><br /></p><p style=\"text-align: center; font-size: .8em;\">    <img src=\"https://res.cloudinary.com/yipster/image/upload/v1519239811/petro-nem_q4kngu.jpg\" alt=\"Manual de usuario NEM\" width=\"100%\" /></p><p style=\"text-align: center; font-size: .8em;\">    Captura del manual que menciona el uso de **NEM**.</p><p><br /></p><p style=\"text-align: center;\">    <img src=\"https://res.cloudinary.com/yipster/image/upload/v1519240118/nem-petro-oficial_mlbaxi.jpg\" alt=\"Petro oficilamente en NEM\" width=\"100%\" /></p><p style=\"text-align: center; font-size: .8em;\">    Tweet con anuncio oficial del gobierno y el uso de NEM para el Petro.</p><p><strong>Referencias</strong></p><ul>    <li>        <a href=\"http://elpetro.gob.ve/\" target=\"_blank\">Sitio oficial del Petro</a>    </li>    <li>        <a href=\"http://elpetro.gob.ve/docs/MANUAL%20COMPRADOR%20VERSION%20BETA.pdf\" target=\"_blank\">            Manual del comprador (Petro)        </a>    </li></ul>",
+            "url": "http://localhost:4000/noticias/2018/02/21/00-00-petro-en-ethereum-o-nem.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1519235225/criptomoneda-petro-nem-o-eethereum_jnmhnl.jpg",
+            "date": "21 del febrero del 2018",
+            "tag": "petro",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-21T00:00:00-07:00",
+            "date_modified": "2018-02-21T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/20/el-petro-la-criptomoneda-del-gobierno-de-venezuela-inicia-preventa.html",
+            "title": "El Petro, la criptomoneda del gobierno de Venezuela inicia  preventa",
+            "summary": "El Petro es la criptomoneda del gobierno venezolano y esta es un token ERC20 (corre en Ethereum); su finalidad es evadir el bloqueo de los Estados Unidos. La preventa de tokens comenzó el día de hoy pero solamente para inversionistas institucionales como Qatar, Turquía, Europa, entre otros.",
+            "content_text": "El Petro es la criptomoneda del gobierno venezolano la cual es un token ERC20 (corre en Ethereum); su finalidad es evadir el bloqueo de los Estados Unidos. La preventa de tokens comenzó el día de hoy pero solamente para inversionistas institucionales como Qatar, Turquía, Europa, entre otros.El Petro supuestamente estaría respaldado por barriles de petróleo pero también por sus reservas de oro, diamante y otros minerales.La preventa buscaría repartir 82.4 millones de tokens cada cual tendría un valor de ~$60 USD sin embargo no hay nada oficial al respecto.La oferta al público general será en un mes.    Referencias:    Venezuela Is Jumping Into the Crypto Craze    White Paper",
+            "content_html": "<p>El Petro es la criptomoneda del gobierno venezolano la cual es un token ERC20 (corre en Ethereum); su finalidad es evadir el bloqueo de los Estados Unidos. La preventa de tokens comenzó el día de hoy pero solamente para inversionistas institucionales como Qatar, Turquía, Europa, entre otros.</p><p>El Petro supuestamente estaría respaldado por barriles de petróleo pero también por sus reservas de oro, diamante y otros minerales.</p><p>La preventa buscaría repartir 82.4 millones de tokens cada cual tendría un valor de ~$60 USD sin embargo no hay nada oficial al respecto.</p><p>La oferta al público general será en un mes.</p><p style=\"text-align: center;\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1519148677/petro-ditribution_bpiuxq.jpg\" alt=\"Distribución del Petro\" width=\"100%\" /></p><p><strong>Referencias:</strong></p><ul>    <li><a href=\"https://www.bloomberg.com/news/articles/2018-02-20/venezuela-is-jumping-into-the-crypto-craze\" target=\"_blank\">Venezuela Is Jumping Into the Crypto Craze</a></li>    <li><a href=\"http://www.elpetro.gob.ve/Whitepaper_Petro_en.pdf\">White Paper</a></li></ul>",
+            "url": "http://localhost:4000/noticias/2018/02/20/el-petro-la-criptomoneda-del-gobierno-de-venezuela-inicia-preventa.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1519147581/petro-prico_lo3wfb.jpg",
+            "date": "20 de febrero del 2018",
+            "tag": "ico",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-20T00:00:00-07:00",
+            "date_modified": "2018-02-20T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/19/ico-kryll-estrategias-de-trading-automatizadas.html",
+            "title": "ICO Kryll estrategias de trading automatizadas",
+            "summary": "Kryll, proyecto que pretende crear un sistema con estrategias automatizadas de trading ha lanzado su ICO y nosotros nos hemos dado la tarea de revisarla y darte nuestras conclusiones. Su misión es \"brindar herramientas profesionales de trading con un sistema simple de drag and drop\".",
+            "content_text": "Kryll, proyecto que pretende crear un sistema con estrategias automatizadas de trading ha lanzado su ICO y nosotros nos hemos dado la tarea de revisarla y darte nuestras conclusiones.A primera instancia el proyecto se mira muy interesante y prometedor, la calidad de su sitio y todo eso no podría ser mejor y está bien pero eso no es lo que importa; lo importante está en los fundamentos que podrían llevar el proyecto a ser exitoso.La meta de Kryll es crear un sistema para automatizar las estrategias de trading utilizable para individuos sin conocimientos de algotrading, o trading con programación, y esto mediante una interfaz drag and drop.    Y como si lo anterior no fuera poco otra de las metas de Kryll es permitir que puedas comprar o vender estrategias “ganadoras” a través de su plataforma.Tras ir revisando proyecto y sus ambiciones todo comienza a sonar un tanto difícil de realizar y es que ten en cuenta que desean lanzar una versión beta en diciembre de este mismo año lo cual es muy poco tiempo para todo lo que implica un sistema de este calibre (obviamente no lanzarían todas las características pero aún así no es fácil).Y esto nos lleva a otro punto importante de cuidado, un foco rojo, la ausencia de un prototipo. Una de las reglas de oro cuando se trata de invertir en ICO’s es verificar el prototipo (que tengan un proyecto semifuncional o un trabajo realizado que mostrar) puesto que la ausencia de uno asegura en gran medida que el proyecto es una estafa aunque esto no es siempre el caso.Lo siguiente es la revisión del equipo el cual no nos llena el ojo para nada, y no por que no tengan la capacidad (nuestra investigación arroja que algunos de ellos están bien calificados) si no por la falta de información clara sobre sus trabajos previos.Hay otro punto de alerta para nosotros y es que uno de los miembros del equipo es utilizado como testimonio (positivo) en otra de las empresas del CEO, misma la que pertenecen, o pertenecieron, otros miembros de Kryll. El diablo está en los detalles y ese tipo de hechos nos dan otro foco rojo.En cuanto a su estrategia de comunicación Kryll ha fallado en llegar a medios mainstream.Otra situación rara es que sus campañas en los medios de información sobre criptomonedas recién comenzaron hace 17 días siendo que el ICO comenzaba el 7 de febrero lo que en el mejor de los casos significaría una mala planeación (¿por qué tanta prisa por lanzar y no esperarse para atraer más inversionistas?)La realidad es que las metas no son muy realistas y mucho menos para el tiempo fijado por ellos mismos en su roadmap (diciembre del 2018)    En el supuesto de que puedan llevar a cabo lo que dicen, los rendimientos generados seguro que serián buenos ya que el trading va en crecimiento debido a que cada vez más son más las personas y empresas que entran  al sector.Pero seamos realistas ¿podrán con el paquete en un periódo tan corto?  Sistema drag and drop para crear  estrategias de trading (2018)  Un mercado para vender y comprar estrategias (2018)  Soporte para los principales exchanges (Bittrex, Bitfinex, GDAX, etc) (2018)  Alertas (2018)  Análisis técnico (2018)  Machine Learning (2019)  Análisis de sentimiento (2019)  App móvil (2019)  SDK (2020)En conclusión, invertir en este ICO es muy riesgoso ya que pueda tratarse de una estafa bien hecha o de un proyecto que no verá la luz del día jamás por lo complicado de su ejecución.Pero si aún estás convencid@ de que puede ser un buen proyecto para invertir puedes ir a su página aquí:  https://krill.ioEl costo por token es de 20 centavos de dólar y si inviertes en las próximas horas podrás llevarte un bonus del %5 al 10%.            ",
+            "content_html": "<p>Kryll, proyecto que pretende crear un sistema con estrategias automatizadas de trading ha lanzado su ICO y nosotros nos hemos dado la tarea de revisarla y darte nuestras conclusiones.</p><p>A primera instancia el proyecto se mira muy interesante y prometedor, la calidad de su sitio y todo eso no podría ser mejor y está bien pero eso no es lo que importa; lo importante está en los fundamentos que podrían llevar el proyecto a ser exitoso.</p><p>La meta de Kryll es crear un sistema para automatizar las estrategias de trading utilizable para individuos sin conocimientos de <strong>algotrading</strong>, o trading con programación, y esto mediante una interfaz drag and drop.</p><p style=\"text-align: center;\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1519081494/StepedStopTake_m5djdr.png\" alt=\"Estrategis de Trading Automatizado\" width=\"100%\" /></p><p>Y como si lo anterior no fuera poco otra de las metas de Kryll es permitir que puedas comprar o vender estrategias “ganadoras” a través de su plataforma.</p><p>Tras ir revisando proyecto y sus ambiciones todo comienza a sonar un tanto difícil de realizar y es que ten en cuenta que desean lanzar una versión beta en diciembre de este mismo año lo cual es muy poco tiempo para todo lo que implica un sistema de este calibre (obviamente no lanzarían todas las características pero aún así no es fácil).</p><p>Y esto nos lleva a otro punto importante de cuidado, un foco rojo, la <strong>ausencia de un prototipo</strong>. Una de las reglas de oro cuando se trata de invertir en ICO’s es verificar el prototipo (que tengan un proyecto semifuncional o un trabajo realizado que mostrar) puesto que la ausencia de uno asegura en gran medida que el proyecto es una estafa aunque esto no es siempre el caso.</p><p>Lo siguiente es la revisión del equipo el cual no nos llena el ojo para nada, y no por que no tengan la capacidad (nuestra investigación arroja que algunos de ellos están bien calificados) si no por la falta de información clara sobre sus trabajos previos.</p><p>Hay otro punto de alerta para nosotros y es que uno de los miembros del equipo es utilizado como testimonio (positivo) en otra de las empresas del CEO, misma la que pertenecen, o pertenecieron, otros miembros de Kryll. El diablo está en los detalles y ese tipo de hechos nos dan otro foco rojo.</p><p>En cuanto a su estrategia de comunicación Kryll ha fallado en llegar a medios mainstream.</p><p>Otra situación rara es que sus campañas en los medios de información sobre criptomonedas recién comenzaron hace 17 días siendo que el ICO comenzaba el 7 de febrero lo que en el mejor de los casos significaría una mala planeación (¿por qué tanta prisa por lanzar y no esperarse para atraer más inversionistas?)</p><p>La realidad es que las metas no son muy realistas y mucho menos para el tiempo fijado por ellos mismos en su <em>roadmap</em> (diciembre del 2018)</p><p style=\"text-align: center;\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1519081462/Captura_de_pantalla_2018-02-19_a_la_s_16.03.25_fo6jls.jpg\" alt=\"Características de Kryll\" width=\"100%\" /></p><p>En el supuesto de que puedan llevar a cabo lo que dicen, los rendimientos generados seguro que serián buenos ya que el trading va en crecimiento debido a que cada vez más son más las personas y empresas que entran  al sector.</p><p>Pero seamos realistas ¿podrán con el paquete en un periódo tan corto?</p><ul>  <li>Sistema drag and drop para crear  estrategias de trading (2018)</li>  <li>Un mercado para vender y comprar estrategias (2018)</li>  <li>Soporte para los principales exchanges (Bittrex, Bitfinex, GDAX, etc) (2018)</li>  <li>Alertas (2018)</li>  <li>Análisis técnico (2018)</li>  <li>Machine Learning (2019)</li>  <li>Análisis de sentimiento (2019)</li>  <li>App móvil (2019)</li>  <li>SDK (2020)</li></ul><p>En conclusión, invertir en este ICO es muy riesgoso ya que pueda tratarse de una estafa bien hecha o de un proyecto que no verá la luz del día jamás por lo complicado de su ejecución.</p><p>Pero si aún estás convencid@ de que puede ser un buen proyecto para invertir puedes ir a su página aquí:  <a href=\"http://bit.ly/2EE8JkC\" target=\"_blank\">https://krill.io</a></p><p>El costo por token es de 20 centavos de dólar y si inviertes en las próximas horas podrás llevarte un <strong>bonus</strong> del %5 al 10%.</p><p>    <a href=\"http://bit.ly/2EE8JkC\" target=\"_blank\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1519082668/kryll_threadesign_uavpuk.png\" alt=\"Kryll ICO\" width=\"100%\" />    </a></p>",
+            "url": "http://localhost:4000/noticias/2018/02/19/ico-kryll-estrategias-de-trading-automatizadas.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1519076493/kryll-ico_k7ykok.jpg",
+            "date": "19 de febrero del 2018",
+            "tag": "revisión",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-19T00:00:00-07:00",
+            "date_modified": "2018-02-19T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/17/telegram-recauda-850-millones-de-dolares-en-su-pre-ico.html",
+            "title": "Telegram recauda 850 millones de dólares en su PreICO",
+            "summary": "Telegram ha recaudado al menos 850 millones de dólares de lo que fue su preventa de tokens (TON). La venta se llevó a cabo de manera privada para inversionistas de alto nivel y fue tanta la demanda que ni ellos mismos lograron comprar las cantidades que esperaban.",
+            "content_text": "    Telegram ha recaudado al menos 850 millones de dólares de lo que fue su preventa de tokens (TON). La venta se llevó a cabo de manera privada para inversionistas de alto nivel y fue tanta la demanda que ni ellos mismos lograron comprar las cantidades que esperaban.Telegram espera recaudar 1200 millones de dólares para financiar el desarrollo de toda la plataforma que implicará TON la cual incluye un sistema para desarrollo de Dapps (aplicaciones descentralizadas) además de un sistema de pago y su criptomoneda gram .Se espera que el ICO público se realice en marzo sin embargo los inversionistas privados están empujando ya el precio y piden no menos del doble de lo que pagaron; esto les está garantizando ya su retorno de la inversión puesto que entre el resto (los pequeños inversionistas) las expectativas en torno a este ICO son grandes y estarán dispuestos a pagar por el precio que se les pida.¿Invertirás tu en TON?",
+            "content_html": "<p style=\"text-align: center;\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1518923104/telegram-ton_vaue6x.jpg\" alt=\"Telegram ICO\" width=\"100%\" /></p><p>Telegram ha recaudado al menos 850 millones de dólares de lo que fue su preventa de tokens (<strong>TON</strong>). La venta se llevó a cabo de manera privada para inversionistas de alto nivel y fue tanta la demanda que ni ellos mismos lograron comprar las cantidades que esperaban.</p><p>Telegram espera recaudar 1200 millones de dólares para financiar el desarrollo de toda la plataforma que implicará TON la cual incluye un sistema para desarrollo de Dapps (aplicaciones descentralizadas) además de un sistema de pago y su criptomoneda <strong>gram</strong> .</p><p>Se espera que el ICO público se realice en marzo sin embargo los inversionistas privados están empujando ya el precio y piden no menos del doble de lo que pagaron; esto les está garantizando ya su retorno de la inversión puesto que entre el resto (los pequeños inversionistas) las expectativas en torno a este ICO son grandes y estarán dispuestos a pagar por el precio que se les pida.</p><p>¿Invertirás tu en TON?</p>",
+            "url": "http://localhost:4000/noticias/2018/02/17/telegram-recauda-850-millones-de-dolares-en-su-pre-ico.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518923104/telegram-ton_vaue6x.jpg",
+            "date": "17 de febrero del 2018",
+            "tag": "ICO",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-17T00:00:00-07:00",
+            "date_modified": "2018-02-17T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/16/19-00-00-mastering-bitcoin-el-mejor-libro-para-comenzar.html",
+            "title": "Mastering Bitcoin, el mejor libro para comenzar y es gratis",
+            "summary": "Andreas Antonopoulos es una de las figuras más reconocidas en la comunidad de Bitcoin. Él es el autor del libro \"Mastering Bitcoin\" el cual es uno de los mejores documentos de referencia sobre esta criptomoneda. ¿Sabías que AA lo ha publicado bajo la licencia Creative Commons bajo el permiso de la editorial O'Reilly Media?",
+            "content_text": "Andreas Antonopoulos es una de las figuras más reconocidas en la comunidad de Bitcoin. Él es el autor del libro “Mastering Bitcoin” el cual es uno de los mejores documentos de referencia sobre esta criptomoneda.¿Sabías que AA lo ha publicado bajo la licencia Creative Commons bajo el permiso de la editorial O’Reilly Media?Esto te permite descargar el libro de manera gratuita!Suscríbete a nuestro newsletter para acceder al libro ahora!Suscribirme ahora",
+            "content_html": "<p>Andreas Antonopoulos es una de las figuras más reconocidas en la comunidad de Bitcoin. Él es el autor del libro “Mastering Bitcoin” el cual es uno de los mejores documentos de referencia sobre esta criptomoneda.</p><p>¿Sabías que AA lo ha publicado bajo la licencia Creative Commons bajo el permiso de la editorial O’Reilly Media?</p><p>Esto te permite descargar el libro de manera gratuita!</p><p>Suscríbete a nuestro newsletter para acceder al libro ahora!</p><p><a href=\"http://eepurl.com/c4xGiD\" target=\"_blank\" style=\"background-color: #5735D1; color:#fff; padding: .4em;\">Suscribirme ahora</a></p>",
+            "url": "http://localhost:4000/noticias/2018/02/16/19-00-00-mastering-bitcoin-el-mejor-libro-para-comenzar.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518833188/mastering-bitcoin-cc_qyjrkd.jpg",
+            "date": "16 de febrero del 2018",
+            "tag": "libro",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-16T00:00:00-07:00",
+            "date_modified": "2018-02-16T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/16/15-00-00-brave-el-navegador-que-te-permite-apoyar-a-los-creativos-con-su-criptomoneda.html",
+            "title": "Brave: el navegador que te permite apoyar a los creativos con su criptomoneda",
+            "summary": "El sistema tradicional explota al creativo (llámese músico, youtuber, escritor, etc); estamos hablando de empresas como youtube o medium que lucran con las creaciones de otros sin que el creador sea bien recompensado por ello. Brave quiere cambiar eso con su navegador y criptomoneda.",
+            "content_text": "    El sistema tradicional explota al creativo (llámese músico, youtuber, escritor, etc); estamos hablando de empresas como youtube o medium que lucran con las creaciones de otros sin que el creador sea bien recompensado por ello. Brave quiere cambiar eso con su navegador y criptomoneda.Brave es un nuevo navegador cuya misión es apoyar a los creativos a ser bien recompensados económicamente y para lograr esto las mentes detrás de este proyecto llegaron a la conclusión de que eliminar intermediarios era fundamental ya que estos son la principal fuente el problema ya que al ser monopolios ellos definen sus tarifas sin que nadie pueda hacer nada al respecto.Una vez eliminando a esos intermediarios del camino lo que sigue es la realización de una transacción de forma seguro y para ello el equipo se decidió por una criptomoneda y en este caso hablamos de un ERC20 Token (basada en Ethereum).Si tu eres un creativo (bloguero, youtuber, etc), puedes sacar provecho de esta oportunidad y para ellos solo tienes que descargar el navegador, dar de alta tu cuenta de “publisher” y estarás listo para recibir donaciones de tus seguidores!Sigue estos pasos para comenzar con Brave:    Descarga Brave aquí ahora    Conviértete en Publisher",
+            "content_html": "<p style=\"text-align: center;\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1518823485/brave-publisher_dstlzr.jpg\" alt=\"Brave Publisher\" width=\"100%\" /></p><p>El sistema tradicional explota al creativo (llámese músico, youtuber, escritor, etc); estamos hablando de empresas como youtube o medium que lucran con las creaciones de otros sin que el creador sea bien recompensado por ello. Brave quiere cambiar eso con su navegador y criptomoneda.</p><p>Brave es un nuevo navegador cuya misión es apoyar a los creativos a ser bien recompensados económicamente y para lograr esto las mentes detrás de este proyecto llegaron a la conclusión de que eliminar intermediarios era fundamental ya que estos son la principal fuente el problema ya que al ser monopolios ellos definen sus tarifas sin que nadie pueda hacer nada al respecto.</p><p>Una vez eliminando a esos intermediarios del camino lo que sigue es la realización de una transacción de forma seguro y para ello el equipo se decidió por una criptomoneda y en este caso hablamos de un ERC20 Token (basada en Ethereum).</p><p>Si tu eres un creativo (bloguero, youtuber, etc), puedes sacar provecho de esta oportunidad y para ellos solo tienes que descargar el navegador, dar de alta tu cuenta de “publisher” y estarás listo para recibir donaciones de tus seguidores!</p><p>Sigue estos pasos para comenzar con Brave:</p><p><br /></p><p><span style=\"color:#fff; background-color: #FE2804; padding: .6em;\">    <a href=\"https://brave.com/yip625\" style=\"color: #fff;\" target=\"_blank\">Descarga <strong>Brave</strong> aquí ahora</a></span></p><p><br /></p><p><span style=\"color:#fff; background-color: #B61F69; padding: .6em;\">    <a href=\"https://publishers.basicattentiontoken.org/\" style=\"color: #fff;\" target=\"_blank\">Conviértete en Publisher</a></span></p>",
+            "url": "http://localhost:4000/noticias/2018/02/16/15-00-00-brave-el-navegador-que-te-permite-apoyar-a-los-creativos-con-su-criptomoneda.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518822194/brave-creators-browser_z7zjr5.jpg",
+            "date": "16 de febrero del 2018",
+            "tag": "internet money",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-16T00:00:00-07:00",
+            "date_modified": "2018-02-16T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/16/13-00-00-estamos-estrenando-app.html",
+            "title": "Estamos estrenando app y te mostramos nuestro Roadmap",
+            "summary": "Hemos lanzado nuestra aplicación Yipster News y su finalidad es mantenerte informado sobre el mundo de las criptomonedas e Internet del dinero además de brindar información útil para emprendedores o aquellos que desean incursionar en el mundo de la inversión en el sector de las criptodivisas.",
+            "content_text": "Hemos lanzado nuestra aplicación Yipster News y su finalidad es mantenerte informado sobre el mundo de las criptomonedas e Internet del dinero además de brindar información útil para emprendedores o aquellos que desean incursionar en el mundo de la inversión en el sector de las criptodivisas.Este lanzamiento es simbólico más que otra cosa y esto se debe a que la aplicación es muy simple pero no quiere decir que permanecerá así; nuestra intención en enriquecerla en el transcurso de los próximos días y meses con funcionalidades más útiles para ti.Puedes esperar alguna pequeñas fallas (algunas de las cuales ya estamos corrigiendo) pero por favor se paciente, tenemos grandes planes!Aquí te dejo nuestro roadmap (mapa de guía de las funcionalidades que vienen y su fecha estimada). Ten en cuenta que algunas de estas están relacionadas a nuestros nuevos proyectos de información y en este contexto es cómo se podrán ir liberando estas nuevas funciones.    ",
+            "content_html": "<p>Hemos lanzado nuestra aplicación Yipster News y su finalidad es mantenerte informado sobre el mundo de las criptomonedas e Internet del dinero además de brindar información útil para emprendedores o aquellos que desean incursionar en el mundo de la inversión en el sector de las criptodivisas.</p><p>Este lanzamiento es simbólico más que otra cosa y esto se debe a que la aplicación es muy simple pero no quiere decir que permanecerá así; nuestra intención en enriquecerla en el transcurso de los próximos días y meses con funcionalidades más útiles para ti.</p><p>Puedes esperar alguna pequeñas fallas (algunas de las cuales ya estamos corrigiendo) pero por favor se paciente, tenemos grandes planes!Aquí te dejo nuestro roadmap (mapa de guía de las funcionalidades que vienen y su fecha estimada). Ten en cuenta que algunas de estas están relacionadas a nuestros nuevos proyectos de información y en este contexto es cómo se podrán ir liberando estas nuevas funciones.</p><p style=\"text-align: center;\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1518819643/Captura_de_pantalla_2018-02-16_a_la_s_15.20.10_javf83.jpg\" alt=\"Yipster News Roadmap\" width=\"100%\" /></p>",
+            "url": "http://localhost:4000/noticias/2018/02/16/13-00-00-estamos-estrenando-app.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518817402/yipster-app-news_qxubw7.jpg",
+            "date": "16 de febrero del 2018",
+            "tag": "app",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-16T00:00:00-07:00",
+            "date_modified": "2018-02-16T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/14/microsoft-colaborara-en-el-desarrollo-de-soluciones-de-segunda-capa-para-bitcoin.html",
+            "title": "Microsoft colaborara en el desarrollo de soluciones de segunda capa para Bitcoin",
+            "summary": "Microsoft ha anunciado su intención de colaborar con la comunidad de Bitcoin y otras criptomonedas para la mejora de las tecnologías de segunda capa y es que de acuerdo a Alex Simons (director de manejo de programas dentro del proyecto de Identidad Descentralizada de Microsoft) estas soluciones son la mejor manera de escalar Bitcoin.",
+            "content_text": "Microsoft ha anunciado su intención de colaborar con la comunidad de Bitcoin y otras criptomonedas para la mejora de las tecnologías de segunda capa y es que de acuerdo a Alex Simons (director de manejo de programas dentro del proyecto de Identidad Descentralizada de Microsoft) estas soluciones son la mejor manera de escalar Bitcoin.Si una criptomonedas quiere dar servicio a una gran cantidad de personas no es razonable mantener el proceso dentro de la cadena y en este contexto es que Microsoft desea colaborar.Para más información visita: http://bitcoinist.com/farewell-bitcoin-cash-microsoft-chain-scaling-degrades-decentralization/",
+            "content_html": "<p>Microsoft ha anunciado su intención de colaborar con la comunidad de Bitcoin y otras criptomonedas para la mejora de las tecnologías de segunda capa y es que de acuerdo a Alex Simons (director de manejo de programas dentro del proyecto de Identidad Descentralizada de Microsoft) estas soluciones son la mejor manera de escalar Bitcoin.</p><p>Si una criptomonedas quiere dar servicio a una gran cantidad de personas no es razonable mantener el proceso dentro de la cadena y en este contexto es que Microsoft desea colaborar.</p><p>Para más información visita: <a href=\"http://bitcoinist.com/farewell-bitcoin-cash-microsoft-chain-scaling-degrades-decentralization/\">http://bitcoinist.com/farewell-bitcoin-cash-microsoft-chain-scaling-degrades-decentralization/</a></p>",
+            "url": "http://localhost:4000/noticias/2018/02/14/microsoft-colaborara-en-el-desarrollo-de-soluciones-de-segunda-capa-para-bitcoin.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518817790/microsoft-loves-opensource_n82ez6.jpg",
+            "date": "14 de febrero del 2018",
+            "tag": "colaboracion",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-14T00:00:00-07:00",
+            "date_modified": "2018-02-14T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/14/la-busqueda-extraterreste-se-ve-afectada-por-la-mineria-de-criptomonedas.html",
+            "title": "La busqueda extraterreste se ve afectada por la mineria de criptomonedas",
+            "summary": "El furor en torno a las criptomonedas ha traído una creciente demanda sobre las tarjetas de video y esto ha golpeado a los lugares menos esperados como als SETI y su búsqueda de vide extraterrestre.",
+            "content_text": "El furor en torno a las criptomonedas ha traído una creciente demanda sobre las tarjetas de video y esto ha golpeado a los lugares menos esperados como als SETI y su búsqueda de vide extraterrestre.El procedimiento del SETI para la búsqueda de vida alienígena se basa en el escanéo de las frecuencias procedentes del espacio, cada una de estas tiene una o más tarjetas para monitorearle y tras la escasez de tarjetas SETI no puede monitorear más frecuencias o poner más potencia en las actuales.Pero mientras el SETI ve lo malo no se ha puesto a ver que también hay una gran oportunidad aquí para ellos y es que si permiten a los entusiastas de la búsqueda extraterrestre prestar su equipo a cambio de tokens (tentativamente SETI tokens) podrían reducir sus costos y alcanzar aún más poder de procesamiento. Quizá no pase mucho para cuando veamos la primera criptomoneda del SETI; quizá haya una oprtunidad para un ICO aquí.Para más información visita: http://www.bbc.com/news/technology-43056744",
+            "content_html": "<p>El furor en torno a las criptomonedas ha traído una creciente demanda sobre las tarjetas de video y esto ha golpeado a los lugares menos esperados como als SETI y su búsqueda de vide extraterrestre.</p><p>El procedimiento del SETI para la búsqueda de vida alienígena se basa en el escanéo de las frecuencias procedentes del espacio, cada una de estas tiene una o más tarjetas para monitorearle y tras la escasez de tarjetas SETI no puede monitorear más frecuencias o poner más potencia en las actuales.</p><p>Pero mientras el SETI ve lo malo no se ha puesto a ver que también hay una gran oportunidad aquí para ellos y es que si permiten a los entusiastas de la búsqueda extraterrestre prestar su equipo a cambio de tokens (tentativamente SETI tokens) podrían reducir sus costos y alcanzar aún más poder de procesamiento. Quizá no pase mucho para cuando veamos la primera criptomoneda del SETI; quizá haya una oprtunidad para un ICO aquí.</p><p>Para más información visita: <a href=\"http://www.bbc.com/news/technology-43056744\">http://www.bbc.com/news/technology-43056744</a></p>",
+            "url": "http://localhost:4000/noticias/2018/02/14/la-busqueda-extraterreste-se-ve-afectada-por-la-mineria-de-criptomonedas.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518818711/seti_mxzbzv.jpg",
+            "date": "13 de febrero del 2018",
+            "tag": "noticia",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-14T00:00:00-07:00",
+            "date_modified": "2018-02-14T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/12/ya-abrio-hodlhodl-nuevo-exchange-p2p.html",
+            "title": "HodlHodl el nuevo exchange P2P que no guarda tu dinero",
+            "summary": "Abre HodlHodl un exchange peer to peer en el que el trade lo haces directo con el usuario. HodlHodl no guarda tu dinero, como el resto de los exchanges, sino que utiliza cuentas multisig que permite a ambos usuarios realizar una transacción segura.",
+            "content_text": "Abre HodlHodl un exchange peer to peer en el que el trade lo haces directo con el usuario. HodlHodl no guarda tu dinero, como el resto de los exchanges, sino que utiliza cuentas multisig que permite a ambos usuarios realizar una transacción segura.",
+            "content_html": "<p>Abre HodlHodl un exchange peer to peer en el que el trade lo haces directo con el usuario. HodlHodl no guarda tu dinero, como el resto de los exchanges, sino que utiliza cuentas multisig que permite a ambos usuarios realizar una transacción segura.</p>",
+            "url": "http://localhost:4000/noticias/2018/02/12/ya-abrio-hodlhodl-nuevo-exchange-p2p.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518452602/hodlhodl_ycreyc.jpg",
+            "date": "12 de febrero del 2018",
+            "tag": "exchange",
+            "image": "https://res.cloudinary.com/yipster/image/upload/v1518452602/hodlhodl_ycreyc.jpg",
+            
+            
+            
+            
+            "date_published": "2018-02-12T00:00:00-07:00",
+            "date_modified": "2018-02-12T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/12/microsoft-trabaja-en-un-sistema-de-identidad-descentralizada-que-corre-sobre-bitcoin.html",
+            "title": "Microsoft trabaja en un sistema de identidad descentralizada que corre sobre Bitcoin",
+            "summary": "Microsoft anunció la adopción de Bitcoin y Ethereum para un sistema de identidad descentralizada. En este sistema tu controlas tu información y no un gobierno o empresa.",
+            "content_text": "Microsoft anunció la adopción de Bitcoin y Ethereum para un sistema de identidad descentralizada. En este sistema tu controlas tu información y no un gobierno o empresa.    FUENTE: https://www.forbes.com/sites/ktorpey/2018/02/12/microsoft-to-embrace-decentralized-identity-systems-built-on-bitcoin-and-other-blockchains/#60200a835ada",
+            "content_html": "<p>Microsoft anunció la adopción de Bitcoin y Ethereum para un sistema de identidad descentralizada. En este sistema tu controlas tu información y no un gobierno o empresa.</p><p style=\"text-align: center;\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1518472422/microsoft-descentrilized-identity_j3vd7x.jpg\" alt=\"Microsoft identidad descentralizada en Bitcoin\" width=\"100%\" /></p><p>FUENTE: https://www.forbes.com/sites/ktorpey/2018/02/12/microsoft-to-embrace-decentralized-identity-systems-built-on-bitcoin-and-other-blockchains/#60200a835ada</p>",
+            "url": "http://localhost:4000/noticias/2018/02/12/microsoft-trabaja-en-un-sistema-de-identidad-descentralizada-que-corre-sobre-bitcoin.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518472422/microsoft-descentrilized-identity_j3vd7x.jpg",
+            "date": "12 de febrero del 2018",
+            "tag": "noticias",
+            "image": "https://res.cloudinary.com/yipster/image/upload/v1518472422/microsoft-descentrilized-identity_j3vd7x.jpg",
+            
+            
+            
+            
+            "date_published": "2018-02-12T00:00:00-07:00",
+            "date_modified": "2018-02-12T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/inversion/2018/02/09/lisk-arrojo-un-5385-porciento-de-retorno-de-la-inversion-en-9-meses.html",
+            "title": "Lisk arrojó un 5,385.7% de retorno de la inversión en 9 meses",
+            "summary": "LISK es una criptomoneda hecha por un grupo alemán y que aún tiene potencial para más retornos a pesar de la caída en el mercado de criptomonedas. El truco estará en su nueva estrategia.",
+            "content_text": "    En mayo del 2017 recomendamos a nuestros clientes invertir en la criptomoneda LISK con un precio al momento de 70 centavos de dólar y para enereo del 2018 su valor llegó a 38.4 USD para así entregarles un 5,385.7% de retorno.LISK es una criptomoneda hecha por un grupo alemán y que aún tiene potencial para más retornos a pesar de la caída en el mercado de criptomonedas.La razón para esta probable alza en su valor se debe a que intstituciones financieras alemanas y el gobierno alemán están interesados en la tecnología de Lisk además de una nueva estrategia de comunicación para alcanzar más usuarios.Sin embargo su punto de entrada ahora es de 26.93 USD.Da click aquí para suscribirte  y recibir reportes y guías de inversión de criptomonedas con igual potencial de éxito que Lisk.",
+            "content_html": "<p style=\"text-align: center;\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1518200702/lisk-chart_qghyvp.jpg\" alt=\"Lisk arrojó un 5,385.7%\" width=\"100%\" /></p><p>En mayo del 2017 recomendamos a nuestros clientes invertir en la criptomoneda LISK con un precio al momento de 70 centavos de dólar y para enereo del 2018 su valor llegó a 38.4 USD para así entregarles un 5,385.7% de retorno.</p><p>LISK es una criptomoneda hecha por un grupo alemán y que aún tiene potencial para más retornos a pesar de la caída en el mercado de criptomonedas.</p><p>La razón para esta probable alza en su valor se debe a que intstituciones financieras alemanas y el gobierno alemán están interesados en la tecnología de Lisk además de una nueva estrategia de comunicación para alcanzar más usuarios.</p><p>Sin embargo su punto de entrada ahora es de 26.93 USD.</p><p><a href=\"http://eepurl.com/dkjPdP\" style=\"color:#5938D1; font-weight: 900;\">Da click aquí para suscribirte  y recibir reportes y guías de inversión de criptomonedas con igual potencial de éxito que Lisk.</a></p>",
+            "url": "http://localhost:4000/inversion/2018/02/09/lisk-arrojo-un-5385-porciento-de-retorno-de-la-inversion-en-9-meses.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518200702/lisk_sjbgxl.jpg",
+            "date": "9 de febrero del 2018",
+            "tag": "inversión",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-09T00:00:00-07:00",
+            "date_modified": "2018-02-09T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/09/las-criptomonedas-no-van-a-desaparecer-ceo-de-nvidia.html",
+            "title": "Las criptomonedas no van a desaparecer: CEO de NVIDIA",
+            "summary": "Jen-Hsun Huang, CEO de NVIDIA, publicó ayer los resultados del último cuarto del 2017 y estos marcan una tendencia de crecimiento en el sector de criptomonedas y es que la demanda de sus tarjetas abatió sus expectativas a pesar de que el segmento sigue siendo pequeño,",
+            "content_text": "“Las criptomonedas son algo real y no van a desaparecer”Jen-Hsun Huang, CEO de NVIDIA, publicó ayer los resultados del último cuarto del 2017 y estos marcan una tendencia de crecimiento en el sector de criptomonedas y es que la demanda de sus tarjetas abatió sus expectativas a pesar de que el segmento sigue siendo pequeño,",
+            "content_html": "<p>“Las criptomonedas son algo real y no van a desaparecer”</p><p>Jen-Hsun Huang, CEO de NVIDIA, publicó ayer los resultados del último cuarto del 2017 y estos marcan una tendencia de crecimiento en el sector de criptomonedas y es que la demanda de sus tarjetas abatió sus expectativas a pesar de que el segmento sigue siendo pequeño,</p>",
+            "url": "http://localhost:4000/noticias/2018/02/09/las-criptomonedas-no-van-a-desaparecer-ceo-de-nvidia.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518209145/envidia_wfw84r.jpg",
+            "date": "9 de febrero del 2018",
+            "tag": "mercado",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-09T00:00:00-07:00",
+            "date_modified": "2018-02-09T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/08/universidades-se-apresuran-para-abrir-clases-sobre-bitcoin.html",
+            "title": "Universidades se apresuran para abrir clases sobre Bitcoin",
+            "summary": "A pesar de las caídas en el valor de Bitcoin el boom en torno a esta criptmoneda no hace más que crecer y tan es así que universidades como Carnegie Mellon, Cornell, Duke o el MIT están abriendo cursos específicamente sobre criptomonedas.",
+            "content_text": "A pesar de las caídas en el valor de Bitcoin el boom en torno a esta criptmoneda no hace más que crecer y tan es así que universidades como Carnegie Mellon, Cornell, Duke o el MIT están abriendo cursos específicamente sobre criptomonedas.",
+            "content_html": "<p>A pesar de las caídas en el valor de Bitcoin el boom en torno a esta criptmoneda no hace más que crecer y tan es así que universidades como Carnegie Mellon, Cornell, Duke o el MIT están abriendo cursos específicamente sobre criptomonedas.</p>",
+            "url": "http://localhost:4000/noticias/2018/02/08/universidades-se-apresuran-para-abrir-clases-sobre-bitcoin.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518143487/bitcoin-school_cjuqe0.jpg",
+            "date": "8 de febrero del 2018",
+            "tag": "Bitcoin",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-08T00:00:00-07:00",
+            "date_modified": "2018-02-08T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/08/estados-unidos-acciones-se-derrumban-de-nueva-cuenta-y-el-miedo-aumenta.html",
+            "title": "Acciones se derrumban de nueva cuenta y el miedo aumenta",
+            "summary": "El Dow se desploma por segunda ocasión desde el lunes; las tasas de interés van a la alza y esto genera un miedo generalizado entre los inverisonistas.",
+            "content_text": "El Dow se desploma por segunda ocasión desde el lunes; las tasas de interés van a la alza y esto genera un miedo generalizado entre los inverisonistas.Fuente:  https://finance.yahoo.com/news/stocks-plummet-rates-keep-rising-202646935.html",
+            "content_html": "<p>El Dow se desploma por segunda ocasión desde el lunes; las tasas de interés van a la alza y esto genera un miedo generalizado entre los inverisonistas.</p><p>Fuente: <a href=\"https://finance.yahoo.com/news/stocks-plummet-rates-keep-rising-202646935.html\"> https://finance.yahoo.com/news/stocks-plummet-rates-keep-rising-202646935.html</a></p>",
+            "url": "http://localhost:4000/noticias/2018/02/08/estados-unidos-acciones-se-derrumban-de-nueva-cuenta-y-el-miedo-aumenta.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518141266/dow-down_mlfrwd.jpg",
+            "date": "8 de febrero del 2018",
+            "tag": "dow",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-08T00:00:00-07:00",
+            "date_modified": "2018-02-08T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2018/02/06/criptomonedas-repunta-tras-reunion-positiva-en-el-congreso-de-los-estados-unidos.html",
+            "title": "Criptomonedas repuntan tras reunión en el congreso de los Estados Unidos",
+            "summary": "Presidentes del SEC y del CFTC se reunen con senadores para dialogar sobre criptomonedas y el resultado positivo hizo que Bitcoin resurgiera de $6000 USD a $8000 USD.",
+            "content_text": "Este día se llevo a cabo una reunión de consulta en el congreso de los Estados Unidos y la razón para esta fue para ver con detalle el caso de las criptomonedas.El resultado fue muy positivo para las cripmononedas ya que los",
+            "content_html": "<p>Este día se llevo a cabo una reunión de consulta en el congreso de los Estados Unidos y la razón para esta fue para ver con detalle el caso de las criptomonedas.</p><p>El resultado fue muy positivo para las cripmononedas ya que los</p>",
+            "url": "http://localhost:4000/noticias/2018/02/06/criptomonedas-repunta-tras-reunion-positiva-en-el-congreso-de-los-estados-unidos.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1518133168/giancarlo_vwm8og.jpg",
+            "date": "6 de febrero del 2018",
+            "tag": "criptomonedas",
+            
+            
+            
+            
+            
+            "date_published": "2018-02-06T00:00:00-07:00",
+            "date_modified": "2018-02-06T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/11/07/vulnerabilidad-en-ethereum-de-nuevo.html",
+            "title": "Vulnerabilidad en Ethereum, de nuevo!",
+            "summary": "Parity Tech acaba de hacer de conocimiento público una \"vulnerabilidad\" encontrada en su wallet multisig y la causa de este error son los \"contratos inteligentes\" (smart contracts, CI a partir de ahora) de Ethereum.",
+            "content_text": "Parity Tech acaba de hacer de conocimiento público una “vulnerabilidad” encontrada en su wallet multisig y la causa de este error son los “contratos inteligentes” (smart contracts, CI a partir de ahora) de Ethereum.La compañía ha congelado los bienes de sus clientes mientras logran reparar la “vulnerabilidad”.A primera vista podemos pensar que el problema se encuentra en el código de la compañía y es cierto pero la realidad es que el mayor problema se encuentra en Ethereum o más específicamente, en sus CI y el lenguaje usado para crearlos.Esta no es la primera vez que sucede (¿recuerdas el DAO?) y seguro no será la última y la razón para esto son los propios CI de Ethereum, no están listos para usarse en producción, quizá nunca lo estén de seguir por el mismo camino.El gran problema está en el lenguaje usado para crear los CI y es que este pretende facilitar la creación de los CI  dejando de lado la seguridad (es muy difícil tener ambos a la vez).Solidity, el lenguaje usado para la creación de CI (con sintaxis a la JavaScript), es Turing completo (lo quiere decir que trae todas las funcionalidades de un lenguage de programación -&gt; simplificando) y esto es un gran problema puesto que introduce complejidad en el sistema y a más complejidad mayor la posibilidad de vulnerabilidades y a más vulnerabilidades mayor posibilidad de encontrar alguna y explotarla y bya bye dinero.Bitcoin tiene CI desde el comienzo sin embargo su desarrollo va despacio pero con paso seguro.Recientemente Blockstream anunció un nuevo lenguaje para manejar estos CI en Bitcoin, Simplicity. Una de sus características es que es Turing incompleto, lo cual reduce la complejidad en el sistema, pero también dificulta el proceso de programación de contratos, lo cual no debe importar ya que si estamos hablando de dinero queremos a los mejores.Hay que pensar bien antes de invertir nuestro dinero, Ethereum no se ve bien y muy a pesar de que esta situación ya ha sucedido antes su líderes no han hecho nada para solucionar el verdadero problema.En 9 años Bitcoin no ha tenido ni un solo problema de hackeo al contrario de Ethereum que en 2 años de vida ya lleva un hackeo directo al protocolo (DAO) y no menos de 5 debidos a los CI.Referenciashttps://paritytech.io/blog/security-alert.htmlhttps://blockstream.com/2017/10/30/simplicity.htmlhttps://hackernoon.com/smart-contracts-turing-completeness-reality-3eb897996621https://steemit.com/thedao/@dana-edwards/turing-complete-smart-contracts-can-never-be-trustworthy",
+            "content_html": "<p>Parity Tech acaba de hacer de conocimiento público una “vulnerabilidad” encontrada en su wallet multisig y la causa de este error son los “contratos inteligentes” (smart contracts, CI a partir de ahora) de Ethereum.</p><p>La compañía ha congelado los bienes de sus clientes mientras logran reparar la “vulnerabilidad”.</p><p>A primera vista podemos pensar que el problema se encuentra en el código de la compañía y es cierto pero la realidad es que el mayor problema se encuentra en Ethereum o más específicamente, en sus CI y el lenguaje usado para crearlos.</p><p>Esta no es la primera vez que sucede (¿recuerdas el DAO?) y seguro no será la última y la razón para esto son los propios CI de Ethereum, no están listos para usarse en producción, quizá nunca lo estén de seguir por el mismo camino.</p><p>El gran problema está en el lenguaje usado para crear los CI y es que este pretende facilitar la creación de los CI  dejando de lado la seguridad (es muy difícil tener ambos a la vez).</p><p>Solidity, el lenguaje usado para la creación de CI (con sintaxis a la JavaScript), es Turing completo (lo quiere decir que trae todas las funcionalidades de un lenguage de programación -&gt; simplificando) y esto es un gran problema puesto que introduce complejidad en el sistema y a más complejidad mayor la posibilidad de vulnerabilidades y a más vulnerabilidades mayor posibilidad de encontrar alguna y explotarla y bya bye dinero.</p><p>Bitcoin tiene CI desde el comienzo sin embargo su desarrollo va despacio pero con paso seguro.</p><p>Recientemente Blockstream anunció un nuevo lenguaje para manejar estos CI en Bitcoin, <strong>Simplicity</strong>. Una de sus características es que es Turing incompleto, lo cual reduce la complejidad en el sistema, pero también dificulta el proceso de programación de contratos, lo cual no debe importar ya que si estamos hablando de dinero queremos a los mejores.</p><p>Hay que pensar bien antes de invertir nuestro dinero, Ethereum no se ve bien y muy a pesar de que esta situación ya ha sucedido antes su líderes no han hecho nada para solucionar el verdadero problema.</p><p>En 9 años Bitcoin no ha tenido ni un solo problema de hackeo al contrario de Ethereum que en 2 años de vida ya lleva un hackeo directo al protocolo (DAO) y no menos de 5 debidos a los CI.</p><p><strong>Referencias</strong></p><p><a href=\"https://paritytech.io/blog/security-alert.html\">https://paritytech.io/blog/security-alert.html</a></p><p><a href=\"https://blockstream.com/2017/10/30/simplicity.html\">https://blockstream.com/2017/10/30/simplicity.html</a></p><p><a href=\"https://hackernoon.com/smart-contracts-turing-completeness-reality-3eb897996621\">https://hackernoon.com/smart-contracts-turing-completeness-reality-3eb897996621</a></p><p><a href=\"https://steemit.com/thedao/@dana-edwards/turing-complete-smart-contracts-can-never-be-trustworthy\">https://steemit.com/thedao/@dana-edwards/turing-complete-smart-contracts-can-never-be-trustworthy</a></p>",
+            "url": "http://localhost:4000/noticias/2017/11/07/vulnerabilidad-en-ethereum-de-nuevo.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1510076012/ethereum-vulnerability_cq9e8g.jpg",
+            "date": "7 de noviembre del 2017",
+            "tag": "ethereum",
+            
+            
+            
+            "tags": ["ethereum","vulnerabilidad","solidity"],
+            
+            "date_published": "2017-11-07T00:00:00-07:00",
+            "date_modified": "2017-11-07T00:00:00-07:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/10/31/segwit2x-esta-frito.html",
+            "title": "SegWit2x está frito!",
+            "summary": "Como sabemos SegWit2x, en delante B2X, es la campaña propagandística de un grupo de individuos y empresas luchando por hacerse con el nombre de Bitcoin para de esta manera hacer que su propio proyecto basura haga más dinero para ellos.",
+            "content_text": "Como sabemos SegWit2x, en delante B2X, es la campaña propagandística de un grupo de individuos y empresas luchando por hacerse con el nombre de Bitcoin para de esta manera hacer que su propio proyecto basura haga más dinero para ellos.Muy a pesar de esto Bitcoin Core (comunidad de Bitcoin que ha dado seguimiento al desarrollo, documentación y marketing) se mantuvo siempre confiado sobre la incapacidad del ataque de alcanzar un riesgo real para Bitcoin, sin embargo para los usuarios nuevos o los no conocedores de la parte técnica-filosófica de Bitcoin han sido momentos de incertidumbre.La razón para esta incertidumbre se debió en gran medida a la señalización (signaling) de los mineros hacia B2X.Para enteder mejor que es el “signaling” imagina a un líder pidiendo ayuda a un grupo de individuos, este líder planea asaltar un banco (sí, una analogía tonta pero ignora eso por un momento) así que solicita que alcen la mano quienes estén dispuestos a ayudar con la tarea; esta acción de alzar la mano es el “signaling”, pero como has de saber eso no quiere decir que estos individuos realmente se presenten al asalto.85% de los mineros dio la señal de cambiar pero algo que se ha demostrado es que los mineros siguen el dinero. Anteriormente pasó con BCash (o como otros llaman, Bitcoin Cash), los mineros dieron señal pero al final la mayoría se quedó con Bitcoin ¿por qué? por el valor.B2X está frito y la razón para esta afirmación es el hecho anterior, los mineros seguirán el dinero y ahora con las noticias recientes sobre CME Group, que brindará Bitcoin como futuros, los mineros no querrán perderse esa oportunidad, no importa cuantas buenas promesas tengan con B2X el precio está en favor de Bitcoin.Además que CME Group ha declarado no estar interesado en dar soporte a B2X:“We are currently not planning to list Futures on Segwit2x right after the fork”Si fuiste suficientemente list@ ya habrás vendido tu B2X. Sí, antes del fork, ¿cómo? BitMex, Bitfinex entre otros exchanges dieron soporte para B2X como futuros y abrieron la opción de vender estos pre-fork.Referenciashttps://www.cryptofacilities.com/news/announcing-segwit2x-hard-fork-policy",
+            "content_html": "<p>Como sabemos SegWit2x, en delante B2X, es la campaña propagandística de un grupo de individuos y empresas luchando por hacerse con el nombre de Bitcoin para de esta manera hacer que su propio proyecto basura haga más dinero para ellos.</p><p>Muy a pesar de esto Bitcoin Core (comunidad de Bitcoin que ha dado seguimiento al desarrollo, documentación y marketing) se mantuvo siempre confiado sobre la incapacidad del ataque de alcanzar un riesgo real para Bitcoin, sin embargo para los usuarios nuevos o los no conocedores de la parte técnica-filosófica de Bitcoin han sido momentos de incertidumbre.</p><p>La razón para esta incertidumbre se debió en gran medida a la señalización (signaling) de los mineros hacia B2X.</p><p>Para enteder mejor que es el “signaling” imagina a un líder pidiendo ayuda a un grupo de individuos, este líder planea asaltar un banco (sí, una analogía tonta pero ignora eso por un momento) así que solicita que alcen la mano quienes estén dispuestos a ayudar con la tarea; esta acción de alzar la mano es el “signaling”, pero como has de saber eso no quiere decir que estos individuos realmente se presenten al asalto.</p><iframe src=\"https://giphy.com/embed/3o7btVoLSH9tuPSeOI\" width=\"480\" height=\"240\" frameborder=\"0\" class=\"giphy-embed\" allowfullscreen=\"\"></iframe><p>85% de los mineros dio la señal de cambiar pero algo que se ha demostrado es que los mineros siguen el dinero. Anteriormente pasó con BCash (o como otros llaman, Bitcoin Cash), los mineros dieron señal pero al final la mayoría se quedó con Bitcoin ¿por qué? por el valor.</p><p>B2X está frito y la razón para esta afirmación es el hecho anterior, los mineros seguirán el dinero y ahora con las noticias recientes sobre CME Group, que brindará Bitcoin como futuros, los mineros no querrán perderse esa oportunidad, no importa cuantas buenas promesas tengan con B2X el precio está en favor de Bitcoin.</p><p>Además que CME Group ha declarado no estar interesado en dar soporte a B2X:</p><p>“We are currently not planning to list Futures on Segwit2x right after the fork”</p><p>Si fuiste suficientemente list@ ya habrás vendido tu B2X. Sí, antes del fork, ¿cómo? BitMex, Bitfinex entre otros exchanges dieron soporte para B2X como futuros y abrieron la opción de vender estos pre-fork.</p><p><strong>Referencias</strong></p><p>https://www.cryptofacilities.com/news/announcing-segwit2x-hard-fork-policy</p>",
+            "url": "http://localhost:4000/noticias/2017/10/31/segwit2x-esta-frito.html",
+            "cover": "https://res.cloudinary.com/yipster/raw/upload/v1509475874/segwit2x-shit_xzidkq.jpg",
+            "date": "31 de octubre del 2017",
+            "tag": "bitcoin",
+            
+            
+            
+            "tags": ["bitcoin","segwit2x","b2x"],
+            
+            "date_published": "2017-10-31T00:00:00-06:00",
+            "date_modified": "2017-10-31T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/10/25/asegurando-tu-soberania-financiera.html",
+            "title": "Asegurando tu soberanía financiera",
+            "summary": "2017 está resultando ser el año de los **forks**. Primero Bitcoin Cash, después Bitcoin Gold y ahora SegWit2x. Todo esto está resultando en un ecosistema más confuso de lo que ya era puesto que muchos de estos forks lo único que buscan es hacerse con el título del \"Bitcoin verdadero\".",
+            "content_text": "2017 está resultando ser el año de los forks. Primero Bitcoin Cash, después Bitcoin Gold y ahora SegWit2x. Todo esto está resultando en un ecosistema más confuso de lo que ya era puesto que muchos de estos forks lo único que buscan es hacerse con el título del “Bitcoin verdadero”.¿Qué es el “Bitcoin verdadero”?  No creo que sea posible definirlo objetivamente basándonos en métricas recolectadas a través del tiempo de vida de Bitcoin. Sólo desde tu punto de vista es que se puede definir lo que es el “Bitcoin verdadero”, a partir de las reglas en las que estás de acuerdo y cumples.Siempre ten en cuenta que todos allá fuera tienen una agenda y todo buscarán manipularte para ellos beneficiarse, esto es en menor o mayor medida verdad. Hay individuos y grupos que quieren mantener Bitcoin descentralizado y su agenda estará llena de actividades con este último objetivo, por otro lado habrá individuos y grupos que lo que quieren es sacar el mayor provecho económico y ellos te dirán cosas con el objetivo de beneficiarse. Tu decides en que grupo entras y apartir de ahí podrás notar cual es el “Bitcoin verdadero” para tí.Para nosotros no hay duda de que el Bitcoin verdadero es el que está soportado por desarrolladores de calidad como los son los miembros de Bitcoin Core ¿quién si no ellos ha mantenido el ecosistema intacto y operando por  9 años  ya? La filosofía, siendo la parte más importante de Bitcoin y sigue su línea original (un sistema a prueba de censura), muy a pesar de los ataques propagandísticos que dicen todo lo contrario incluso usando palabras de Satoshi Nakamoto (irónicamente para sus fines de centralización).Con toda esta guerra lo único que es verdad es el riesgo para ti como usuario de perder por tomar una mala desición.¿Cómo me preparo para mitigar este riesgo?Nos encontramos ante una situación totalmente distinta a la que se presentó con Bitcoin Cash puesto que con SegWit2x hay un riesgo muy grande de perder tu dinero debido a que el equipo de programadores de SegWit2x ha omitido una medida de seguridad llamada Replay Protection. Cuando una división sucede y surge una nueva criptomoneda, estas ya no deberían aceptar como válidas las transacciones de una y otra, para eso se usa el mecanismo de Replay Protection, ¿ves lo importante de esto? (Bitcoin Cash no fue un problema por que en su código sí se implemento RP)Esta omisión tiene razones políticas, ellos quieren coronarse como el “Bitcoin verdadero” y por eso no agregarán RP. La cadena original de Bitcoin no implementa RP puesto que es la original, no tendría qué (los forks surgen de esta y no al contrario), sin embargo hay grupos que empujan por que la cadena original implemente RP pero de hacerlo así esto sería usado de argumento en su contra para decir que esa cadena, por haber implementado RP, es un Fork y no el Bitcoin original.Hay 2 posiciones en esto, pro SegWit2X y Bitcoin SegWit (original), tu deberás analizar la situación por tu cuenta para poder discernir cual Bitcoin es el “verdadero” y apartir de ahí tomar tus medidas de seguridad ¿por qué? por que si te decides por uno u otro tu dinero se quedará con ese cadena, ya sea Bitcoin SegWit o SegWit2x, el riesgo es que la cadena que sea vista como la versión falsa de Bitcoin perderá su valor de inmmediato.Aquí podrás ver una lista de las compañías a favor de la cadena original de Bitcoin:http://nob2x.org/Esta otra es una lista de las empresas que están a favor de SegWit2x.https://bitcoin.org/en/alert/2017-10-09-segwit2x-safetyEn cuanto a Bitso lo único que sabemos al momento es que ellos darán soporte SegWit2x pero no sabemos de que manera, si como altcoin o como la versión oficial de Bitcoin y de ser así no sabemos que soporte darán a Bitcoin (original), como altcoin o de plano no aceptarlo.¿De qué lado estarás cuando se de la separación de Bitcoin y B2X?",
+            "content_html": "<p>2017 está resultando ser el año de los <strong>forks</strong>. Primero Bitcoin Cash, después Bitcoin Gold y ahora SegWit2x. Todo esto está resultando en un ecosistema más confuso de lo que ya era puesto que muchos de estos forks lo único que buscan es hacerse con el título del “Bitcoin verdadero”.</p><p><img src=\"https://cdn-images-1.medium.com/max/1600/1*XV0XyPiZKySMdmsgA0ct5A.png\" alt=\"Forks de Bitcoin\" width=\"100%\" /></p><p>¿Qué es el “Bitcoin verdadero”?  No creo que sea posible definirlo objetivamente basándonos en métricas recolectadas a través del tiempo de vida de Bitcoin. Sólo desde tu punto de vista es que se puede definir lo que es el “Bitcoin verdadero”, a partir de las reglas en las que estás de acuerdo y cumples.</p><p>Siempre ten en cuenta que todos allá fuera tienen una agenda y todo buscarán manipularte para ellos beneficiarse, esto es en menor o mayor medida verdad. Hay individuos y grupos que quieren mantener Bitcoin descentralizado y su agenda estará llena de actividades con este último objetivo, por otro lado habrá individuos y grupos que lo que quieren es sacar el mayor provecho económico y ellos te dirán cosas con el objetivo de beneficiarse. Tu decides en que grupo entras y apartir de ahí podrás notar cual es el “Bitcoin verdadero” para tí.</p><p>Para <strong>nosotros</strong> no hay duda de que el Bitcoin verdadero es el que está soportado por desarrolladores de calidad como los son los miembros de Bitcoin Core ¿quién si no ellos ha mantenido el ecosistema intacto y operando por  9 años  ya? La filosofía, siendo la parte más importante de Bitcoin y sigue su línea original (un sistema a prueba de censura), muy a pesar de los ataques propagandísticos que dicen todo lo contrario incluso usando palabras de Satoshi Nakamoto (irónicamente para sus fines de centralización).</p><p>Con toda esta guerra lo único que es verdad es el riesgo para ti como usuario de perder por tomar una mala desición.</p><p>¿Cómo me preparo para mitigar este riesgo?</p><p>Nos encontramos ante una situación totalmente distinta a la que se presentó con Bitcoin Cash puesto que con SegWit2x hay un riesgo muy grande de perder tu dinero debido a que el equipo de programadores de SegWit2x ha omitido una medida de seguridad llamada <strong>Replay Protection</strong>. Cuando una división sucede y surge una nueva criptomoneda, estas ya no deberían aceptar como válidas las transacciones de una y otra, para eso se usa el mecanismo de Replay Protection, ¿ves lo importante de esto? (Bitcoin Cash no fue un problema por que en su código sí se implemento RP)</p><p>Esta omisión tiene razones políticas, ellos quieren coronarse como el “Bitcoin verdadero” y por eso no agregarán RP. La cadena original de Bitcoin no implementa RP puesto que es la original, no tendría qué (los forks surgen de esta y no al contrario), sin embargo hay grupos que empujan por que la cadena original implemente RP pero de hacerlo así esto sería usado de argumento en su contra para decir que esa cadena, por haber implementado RP, es un Fork y no el Bitcoin original.</p><p>Hay 2 posiciones en esto, pro SegWit2X y Bitcoin SegWit (original), tu deberás analizar la situación por tu cuenta para poder discernir cual Bitcoin es el “verdadero” y apartir de ahí tomar tus medidas de seguridad ¿por qué? por que si te decides por uno u otro tu dinero se quedará con ese cadena, ya sea Bitcoin SegWit o SegWit2x, el riesgo es que la cadena que sea vista como la versión falsa de Bitcoin perderá su valor de inmmediato.</p><p>Aquí podrás ver una lista de las compañías a favor de la cadena <strong>original de Bitcoin</strong>:</p><p>http://nob2x.org/</p><p>Esta otra es una lista de las empresas que están a favor de <strong>SegWit2x</strong>.</p><p>https://bitcoin.org/en/alert/2017-10-09-segwit2x-safety</p><p>En cuanto a Bitso lo único que sabemos al momento es que ellos darán soporte SegWit2x pero no sabemos de que manera, si como altcoin o como la versión oficial de Bitcoin y de ser así no sabemos que soporte darán a Bitcoin (original), como altcoin o de plano no aceptarlo.</p><p>¿De qué lado estarás cuando se de la separación de Bitcoin y B2X?</p>",
+            "url": "http://localhost:4000/noticias/2017/10/25/asegurando-tu-soberania-financiera.html",
+            "cover": "https://res.cloudinary.com/yipster/raw/upload/v1509476186/asegurando_wquwvx.jpg",
+            "date": "25 de octubre del 2017",
+            "tag": "hardfork",
+            
+            
+            
+            "tags": ["hardfork","SegWit2x","bitcoin"],
+            
+            "date_published": "2017-10-25T00:00:00-06:00",
+            "date_modified": "2017-10-25T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/tutorial/2017/10/20/ya-viene-bitcoin-gold-sabes-como-sacar-provecho-de-ello.html",
+            "title": "Ya viene Bitcoin Gold ¿sabes cómo sacar provecho de ello?",
+            "summary": "Una nueva criptomoneda nacerá a partir de Bitcoin en sólo 3 días. Esto quiere decir que quienes tengan inversión en Bitcoin podrían obtener rendimientos extra por esta división.",
+            "content_text": "Una nueva criptomoneda nacerá a partir de Bitcoin en sólo 3 días. Esto quiere decir que quienes tengan inversión en Bitcoin podrían obtener rendimientos extra por esta división.¿Cómo sucede esto?Básicamente lo que pasa es que cuando una criptomoneda se divide (esto puede pasar por múltiples razones) la nueva criptomoneda clona todo el historial de la otra, en este caso Bitcoin Gold tendría todo el historial de Bitcoin y es por esto que si tienes bitcoins, cuando la división suceda, tendrás la misma cantidad en Bitcoin Gold.Esto no quiere decir que vaya a tener el mismo valor que Bitcoin pero sí podemos especular que al menos tendrá un 5% del valor actual de bitcoin. ¿Cómo podemos predecir el precio? bueno, no podemos, cómo dije es especular pero esta especulación está basada en hechos anteriores, Bitcoin Cash.Bitcoin Cash traía consigo más apoyo de empresas y en especial de los mineros y por ello su valor fue ~25% de lo que valía Bitcoin de ese momento, $3000 USD. Si tenías un Bitcoin quiere decir que automáticamente tendrías un Bitcoin Cash el cual llegó casi a los $800 USD. Dinero de la nada… bueno no relamente ya que el dinero entró de otros lados como moneda fiat u otras criptomonedas.Ahora ¿cómo obtengo ese Bitcoin Gold?, bien, pues para obtener tu BTG deberás ser dueño de la llave privada de tu wallet, esto no es regla pero es la manera de estar seguro obtendrás BTG ya que si tienes tu wallet en tu móvil o con un exchange tendrías que ver con ellos si darán soporte a esta nueva criptomoneda o no.En México Bitso ha anunciado no dará soporte a BTG debido a la “falta de seriedad” del proyecto.Hola! No habrá soporte de Bitcoin Gold por la falta de seriedad del proyecto. Importante no confundirlo con SegWit2X donde si habrá soporte.&mdash; Bitso (@Bitso) October 19, 2017Si tienes tu inversión en Bitso y quieres aprovechar el fork de Bitcoin Gold tendrás que enviar tu bitcoin a otro wallet dónde tú tengas el control de tu llave privada.También tendrás que definir tu plan de acción ¿quieres mantener BTG a largo plazo y venderlo de inmediato?Si lo que deseas es mantener tu BTG a largo plazo un paper wallet es buena idea pero si lo que quieres vender una vez cotice en algún exchange necesitas un wallet que te deje realizar transacciones de manera rápida.Al día de hoy sólo Yobit ha anunciado soporte para BTG pero conforme llegue el día esto puede cambiar así que visítanos o suscríbete a nuestro newsletter para recibir en tu correo más novedades al respecto.",
+            "content_html": "<p>Una nueva criptomoneda nacerá a partir de Bitcoin en sólo 3 días. Esto quiere decir que quienes tengan inversión en Bitcoin podrían obtener rendimientos extra por esta división.</p><p>¿Cómo sucede esto?</p><p>Básicamente lo que pasa es que cuando una criptomoneda se divide (esto puede pasar por múltiples razones) la nueva criptomoneda clona todo el historial de la otra, en este caso Bitcoin Gold tendría todo el historial de Bitcoin y es por esto que si tienes bitcoins, cuando la división suceda, tendrás la misma cantidad en Bitcoin Gold.</p><p>Esto no quiere decir que vaya a tener el mismo valor que Bitcoin pero sí podemos especular que al menos tendrá un 5% del valor actual de bitcoin. ¿Cómo podemos predecir el precio? bueno, no podemos, cómo dije es especular pero esta especulación está basada en hechos anteriores, Bitcoin Cash.</p><p>Bitcoin Cash traía consigo más apoyo de empresas y en especial de los mineros y por ello su valor fue ~25% de lo que valía Bitcoin de ese momento, $3000 USD. Si tenías un Bitcoin quiere decir que automáticamente tendrías un Bitcoin Cash el cual llegó casi a los $800 USD. Dinero de la nada… bueno no relamente ya que el dinero entró de otros lados como moneda fiat u otras criptomonedas.</p><p>Ahora ¿cómo obtengo ese Bitcoin Gold?, bien, pues para obtener tu BTG deberás ser dueño de la llave privada de tu wallet, esto no es regla pero es la manera de estar seguro obtendrás BTG ya que si tienes tu wallet en tu móvil o con un exchange tendrías que ver con ellos si darán soporte a esta nueva criptomoneda o no.</p><p>En México Bitso ha anunciado no dará soporte a BTG debido a la “falta de seriedad” del proyecto.</p><blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"es\" dir=\"ltr\">Hola! No habrá soporte de Bitcoin Gold por la falta de seriedad del proyecto. Importante no confundirlo con SegWit2X donde si habrá soporte.</p>&mdash; Bitso (@Bitso) <a href=\"https://twitter.com/Bitso/status/920842167492534272?ref_src=twsrc%5Etfw\">October 19, 2017</a></blockquote><script async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>Si tienes tu inversión en Bitso y quieres aprovechar el fork de Bitcoin Gold tendrás que enviar tu bitcoin a otro wallet dónde tú tengas el control de tu llave privada.</p><p>También tendrás que definir tu plan de acción ¿quieres mantener BTG a largo plazo y venderlo de inmediato?</p><p>Si lo que deseas es mantener tu BTG a largo plazo un paper wallet es buena idea pero si lo que quieres vender una vez cotice en algún exchange necesitas un wallet que te deje realizar transacciones de manera rápida.</p><p>Al día de hoy sólo Yobit ha anunciado soporte para BTG pero conforme llegue el día esto puede cambiar así que visítanos o suscríbete a nuestro newsletter para recibir en tu correo más novedades al respecto.</p>",
+            "url": "http://localhost:4000/tutorial/2017/10/20/ya-viene-bitcoin-gold-sabes-como-sacar-provecho-de-ello.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1508537560/bitcoin-gold_d6pjkw.jpg",
+            "date": "20 de octubre del 2017",
+            "tag": "bitcoin",
+            
+            
+            
+            "tags": ["bitcoin","bitcoingold"],
+            
+            "date_published": "2017-10-20T00:00:00-06:00",
+            "date_modified": "2017-10-20T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/tutorial/2017/10/19/como-fondear-tu-cuenta-de-bitso.html",
+            "title": "Cómo fondear tu cuenta de Bitso",
+            "summary": "La manera más fácil de comprar Bitcoins en México es quizá a través de la compañía Bitso. Aprende a fondear tu cuenta para después realizar compra de criptomonedas.",
+            "content_text": "La manera más fácil de comprar Bitcoins en México es quizá a través de la compañía Bitso. Aprende a fondear tu cuenta para después realizar compra de criptomonedas.",
+            "content_html": "<p>La manera más fácil de comprar Bitcoins en México es quizá a través de la compañía Bitso. Aprende a fondear tu cuenta para después realizar compra de criptomonedas.</p><iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/XeRbUiWbdrE\" frameborder=\"0\" allowfullscreen=\"\"></iframe>",
+            "url": "http://localhost:4000/tutorial/2017/10/19/como-fondear-tu-cuenta-de-bitso.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1508478155/bitso-tut-2_sx6lk3.jpg",
+            "date": "19 de octubre del 2017",
+            "tag": "bitso",
+            
+            
+            
+            "tags": ["bitso","criptomoneda","invertir"],
+            
+            "date_published": "2017-10-19T00:00:00-06:00",
+            "date_modified": "2017-10-19T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/tutorial/2017/10/19/como-comprar-criptomonedas-en-bitso.html",
+            "title": "Cómo comprar criptomonedas en Bitso",
+            "summary": "La manera más fácil de comprar Bitcoins en México es quizá a través de la compañía Bitso. Aprende a comprar criptomonedas desde tu cuenta.",
+            "content_text": "La manera más fácil de comprar Bitcoins en México es quizá a través de la compañía Bitso. Aprende a comprar criptomonedas desde tu cuenta.",
+            "content_html": "<p>La manera más fácil de comprar Bitcoins en México es quizá a través de la compañía Bitso. Aprende a comprar criptomonedas desde tu cuenta.</p><iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/XeRbUiWbdrE\" frameborder=\"0\" allowfullscreen=\"\"></iframe>",
+            "url": "http://localhost:4000/tutorial/2017/10/19/como-comprar-criptomonedas-en-bitso.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1508478155/bitso-tut-2_sx6lk3.jpg",
+            "date": "19 de octubre del 2017",
+            "tag": "bitso",
+            
+            
+            
+            "tags": ["bitso","criptomoneda","invertir"],
+            
+            "date_published": "2017-10-19T00:00:00-06:00",
+            "date_modified": "2017-10-19T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/10/17/programador-de-bitcoin-rodeado-por-equipo-swat-tras-falsa-pista.html",
+            "title": "Programador de Bitcoin rodeado por equipo SWAT tras falsa pista",
+            "summary": "Cada vez más miembros de la comunidad se oponen a SegWit2X y lo único que les queda a los otros grupos, empresas y mineros, es la intimidación y la manipulación mediática.",
+            "content_text": "Durham, Carolina del Norte, una llamada anónima brinda información al 911 sobre un supuesto secuestro así como también disparos y una bomba en la entrada de la casa en cuestión, el testigo procede a entregar la dirección donde suceden los hechos para luego colgar.Un equipo SWAT toma el control del área para luego ver salir, muy campante, al dueño de la casa, Jameson Lopp.Tras diálogo y revisión el equipo del SWAT verifica que todo está bajo control. La información del “testigo” resultó falsa.Hasta el momento no se ha podido localizar el individuo que realizó la llamada, pero la cuestión aquí tiene que ver más con la política en torno a bitcoin y es que Jameson Lopp es uno de los grandes opositores de SegWit2x, el hard fork que ya viene.Las tensiones en torno a esta cuestión cada vez se tornan más peligrosas y es que hay mucho en juego, más para las empresas que quieren tomar el control sobre bitcoin.Cada vez más miembros de la comunidad se oponen a SegWit2X y lo único que les queda a los otros grupos, empresas y mineros, es la intimidación y la manipulación mediática.Un ejemplo de esa manipulación es la realizada por Roger Ver, uno de los grandes ganadores en caso de darse SegWit2x así como promotor de Bitcoin Cash. Y es que Roger es dueño de bitcoin.com, empresa que actua como medio de desinformación para su propio beneficio, pero también una de las piscinas importantes de bitcoin.Sí este grupo fue el actor intelectual detrás de este ataque a Jameson Lopp no lo sabremos pero la coincidencia en tiempo por lo menos resulta peculiar.Estamos viendo una creciente manipulación de la información lo que nos habla de un proceso de adoctrinamiento y lo que decidamos hoy afectará el futuro libre del bitcoin. No decidas a la ligera.Referencia     Durham man says ‘enemies’ called 911 to report false hostage situation",
+            "content_html": "<p>Durham, Carolina del Norte, una llamada anónima brinda información al 911 sobre un supuesto secuestro así como también disparos y una bomba en la entrada de la casa en cuestión, el testigo procede a entregar la dirección donde suceden los hechos para luego colgar.</p><p>Un equipo SWAT toma el control del área para luego ver salir, muy campante, al dueño de la casa, Jameson Lopp.</p><p>Tras diálogo y revisión el equipo del SWAT verifica que todo está bajo control. La información del “testigo” resultó falsa.</p><p>Hasta el momento no se ha podido localizar el individuo que realizó la llamada, pero la cuestión aquí tiene que ver más con la política en torno a bitcoin y es que Jameson Lopp es uno de los grandes opositores de SegWit2x, el hard fork que ya viene.</p><p>Las tensiones en torno a esta cuestión cada vez se tornan más peligrosas y es que hay mucho en juego, más para las empresas que quieren tomar el control sobre bitcoin.</p><p>Cada vez más miembros de la comunidad se oponen a SegWit2X y lo único que les queda a los otros grupos, empresas y mineros, es la intimidación y la manipulación mediática.</p><p>Un ejemplo de esa manipulación es la realizada por Roger Ver, uno de los grandes ganadores en caso de darse SegWit2x así como promotor de <em>Bitcoin Cash</em>. Y es que Roger es dueño de <em>bitcoin.com</em>, empresa que actua como medio de desinformación para su propio beneficio, pero también una de las piscinas importantes de bitcoin.</p><p><img src=\"http://res.cloudinary.com/yipster/image/upload/v1508273709/Captura_de_pantalla_2017-10-17_a_la_s_14.54.22_bxzocn.png\" alt=\"\" width=\"100%\" /></p><p>Sí este grupo fue el actor intelectual detrás de este ataque a Jameson Lopp no lo sabremos pero la coincidencia en tiempo por lo menos resulta peculiar.</p><p>Estamos viendo una creciente manipulación de la información lo que nos habla de un proceso de adoctrinamiento y lo que decidamos hoy afectará el futuro libre del bitcoin. No decidas a la ligera.</p><p><img src=\"http://res.cloudinary.com/yipster/image/upload/v1508270819/Captura_de_pantalla_2017-10-17_a_la_s_13.00.33_dbxyjo.png\" alt=\"\" width=\"100%\" /></p><p><strong>Referencia</strong></p><p>     <a href=\"http://wncn.com/2017/10/16/police-presence-in-durham-neighborhood-following-hostage-call/\" target=\"_blank\">Durham man says ‘enemies’ called 911 to report false hostage situation</a></p>",
+            "url": "http://localhost:4000/noticias/2017/10/17/programador-de-bitcoin-rodeado-por-equipo-swat-tras-falsa-pista.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1508273192/jameson-lopp-swat_u8w6go.jpg",
+            "date": "17 de octubre del 2017",
+            "tag": "bitcoin",
+            
+            
+            
+            "tags": ["bitcoin","no2x"],
+            
+            "date_published": "2017-10-17T00:00:00-06:00",
+            "date_modified": "2017-10-17T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/opinion/2017/10/13/bitcoin-para-arriba-pero-por-cuanto-tiempo.html",
+            "title": "Bitcoin para arriba pero ¿por cuanto tiempo?",
+            "summary": "En estos último días hemos visto subir el valor del bitcoin desaforadamente y muy a pesar de noticias negativas a su alrededor como el veto de los exchanges en Rusia, Bitcoin muestra tener una economía sólida y esto es debido a que sus usuarios cada vez se vuelven más inmunes a los ataques de los medios oficiales.",
+            "content_text": "En estos último días hemos visto subir el valor del bitcoin desaforadamente y muy a pesar de noticias negativas a su alrededor como el veto de los exchanges en Rusia, Bitcoin muestra tener una economía sólida y esto es debido a que sus usuarios cada vez se vuelven más inmunes a los ataques de los medios oficiales.Pero la razón de esta alza no es natural y sí es algo para estar preparados y tomar medidas de protección así como de acción; y es que las divisiones de bitcoin que ya están por llegar traen locos a los oportunistas.¿Qué es lo que está sucediendo?Muchos de los usuarios que tenían inversiones en otras criptomonedas están sacando estas de otras criptomonedas para meterlas en bitcoin y así duplicar o triplicar su valor cuando las divisiones de bitcoin se den.La cosa es que no sabemos como reaccionará el mercado pues bien podrían triplicar o duplicar su inversión o también podría verse fragmentada entre estas monedas.Sabemos que esta reacción de los usuarios se debe a lo sucedido con la anterior división donde surgió Bitcoin Cash pero la situación hoy es un tanto distinta y podría ser un error de nuestra parte no pensar en otro posible desenlace para estas nuevas divisiones.La oportunidad sí que está latente pero para sacar el mayor provecho de esta deberás tener un plan de acción para cada escenario posible.Una de las características del sector de criptomonedas es que es un mercado que se mueve sumamente rápido ya que podemos tener caídas colosales de un par de segundos y viceversa. Por esta razón tu capacidad de actuar debe ser de igual manera muy rápida.Las divisiones se acercan así que toma los debidos cuidados, mantén tu inversión en tu propio wallet si quieres sacar el mayor provecho de esta situación y crea tu plan de acción.Después de todo este embrollo quizá veamos una caída (consolidación) del precio de bitcoin a los ~$4000 pero sólo para ir con más fuerza hacia arriba.Recuerda que las oportunidades están en todos lados, no mires solamente hacia bitcoin.",
+            "content_html": "<p>En estos último días hemos visto subir el valor del bitcoin desaforadamente y muy a pesar de noticias negativas a su alrededor como el veto de los <strong>exchanges</strong> en Rusia, Bitcoin muestra tener una economía sólida y esto es debido a que sus usuarios cada vez se vuelven más inmunes a los ataques de los medios oficiales.</p><p>Pero la razón de esta alza no es natural y sí es algo para estar preparados y tomar medidas de protección así como de acción; y es que las divisiones de bitcoin que ya están por llegar traen locos a los oportunistas.</p><p>¿Qué es lo que está sucediendo?</p><p>Muchos de los usuarios que tenían inversiones en otras criptomonedas están sacando estas de otras criptomonedas para meterlas en bitcoin y así duplicar o triplicar su valor cuando las divisiones de bitcoin se den.</p><p>La cosa es que no sabemos como reaccionará el mercado pues bien podrían triplicar o duplicar su inversión o también podría verse fragmentada entre estas monedas.</p><p>Sabemos que esta reacción de los usuarios se debe a lo sucedido con la anterior división donde surgió Bitcoin Cash pero la situación hoy es un tanto distinta y podría ser un error de nuestra parte no pensar en otro posible desenlace para estas nuevas divisiones.</p><p>La oportunidad sí que está latente pero para sacar el mayor provecho de esta deberás tener un plan de acción para cada escenario posible.</p><p>Una de las características del sector de criptomonedas es que es un mercado que se mueve sumamente rápido ya que podemos tener caídas colosales de un par de segundos y viceversa. Por esta razón tu capacidad de actuar debe ser de igual manera muy rápida.</p><p>Las divisiones se acercan así que toma los debidos cuidados, mantén tu inversión en tu propio wallet si quieres sacar el mayor provecho de esta situación y crea tu plan de acción.</p><p>Después de todo este embrollo quizá veamos una caída (consolidación) del precio de bitcoin a los ~$4000 pero sólo para ir con más fuerza hacia arriba.</p><p>Recuerda que las oportunidades están en todos lados, no mires solamente hacia bitcoin.</p>",
+            "url": "http://localhost:4000/opinion/2017/10/13/bitcoin-para-arriba-pero-por-cuanto-tiempo.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1507921971/bitcoin-bullish_i7wfdo.jpg",
+            "date": "13 de octubre del 2017",
+            "tag": "bitcoin",
+            
+            
+            
+            "tags": ["bitcoin","inversion","precio"],
+            
+            "date_published": "2017-10-13T00:00:00-06:00",
+            "date_modified": "2017-10-13T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/10/10/los-gobiernos-y-bancos-temen-al-bitcoin-john-mcafee.html",
+            "title": "Los gobiernos y bancos temen al bitcoin - John McAfee",
+            "summary": "En una entrevista reciente a John McAfee realizada por el calvinayre.com el pionero empresario del famoso antivirus y ahora empresario y promotor del blockchain nos brinda su opinión con respecto a por que los bancos y gobiernos temen al bitcoin.",
+            "content_text": "En una entrevista reciente a John McAfee realizada por el calvinayre.com el pionero empresario del famoso antivirus y ahora empresario y promotor del blockchain nos brinda su opinión con respecto a por que los bancos y gobiernos temen al bitcoin.Referenciahttps://calvinayre.com",
+            "content_html": "<p>En una entrevista reciente a John McAfee realizada por el calvinayre.com el pionero empresario del famoso antivirus y ahora empresario y promotor del blockchain nos brinda su opinión con respecto a por que los bancos y gobiernos temen al bitcoin.</p><iframe width=\"587.1\" height=\"330\" src=\"https://www.youtube.com/embed/PlrKAm5D0RI\" frameborder=\"0\" allowfullscreen=\"\"></iframe><p><br /></p><p><strong>Referencia</strong></p><p><a href=\"https://calvinayre.com/2017/10/09/bitcoin/john-mcafee-worldwide-phenomenon-bitcoin-frightens-governments-video/\">https://calvinayre.com</a></p>",
+            "url": "http://localhost:4000/noticias/2017/10/10/los-gobiernos-y-bancos-temen-al-bitcoin-john-mcafee.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1507608706/john-mcafee-bitcoin-miedo-gobiernos_otuy0h.jpg",
+            "date": "9 de octubre del 2017",
+            "tag": "bitcoin",
+            
+            
+            
+            "tags": ["bitcoin","descentralización"],
+            
+            "date_published": "2017-10-10T00:00:00-06:00",
+            "date_modified": "2017-10-10T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/10/09/oportunidad-a-la-vista.html",
+            "title": "Oportunidad a la vista",
+            "summary": "Los recientes eventos entorno al bitcoin, más específicamente en relación a Bitcoin Gold, fork anunciado para este 25 de octubre, ha traído un éxodo masivo de capital de las altcoins (criptomonedas otras que bitcoin) hacia bitcoin y la razón para esto es que los usuarios están esperando un acontecimiento igual al sucedido con el anterior fork, Bitcoin Cash.",
+            "content_text": "Los recientes eventos entorno al bitcoin, más específicamente en relación a Bitcoin Gold, fork anunciado para este 25 de octubre, ha traído un éxodo masivo de capital de las altcoins (criptomonedas otras que bitcoin) hacia bitcoin y la razón para esto es que los usuarios están esperando un acontecimiento igual al sucedido con el anterior fork, Bitcoin Cash.En agosto de este año vimos surgir Bitcoin Cash y aquellos afortunados de tener el control sobre su bitcoin pudieron ver grandes ingresos por el simple hecho de tener bitcoins o como algunos miembros de la comunidad lo describieron, fue como hacer dinero del aire.Por ejemplo, si tenías 1 BTC, que eran como $2,700 USD del 1ero de agosto, con el fork de Bitcoin Cash ganaste otros $382 para esa misma fecha. Unos días después Bitcoin Cash pudo llegar a su máximo de ~$800 USD. ¿Ya puedes imaginar por que todos se van ahora?Si bien es un hecho que el fork se dará y que Bitcoin Gold tendrá un valor del cual sólo podríamos especular, la realidad es que no sabemos si se sucederá de la misma manera que con Bitcoin Cash y es que los grupos involucrados no son lo mismo.Podrías ver este suceso como la oportunidad pero nosotros nos referimos más específicamente a las altcoins y es que este éxodo ha dejado al descubierto el tesoro y tenemos nuevos precios de las altcoins los cuales probablemente no volvamos a ver en mucho tiempo ya que han caído a niveles récord y no, no es en nada malo, es el mercado y es la oportunidad.Así que estos son días de oportunidad, elige tus proyectos favoritos e invierte en ellos.“Buy low, sell high”            ¿Quieres saber que altcoins tienen potencial?                Suscríbete a nuestro newsletter para recibir nuestras guías y reportes.                Suscribirme    ",
+            "content_html": "<p>Los recientes eventos entorno al bitcoin, más específicamente en relación a Bitcoin Gold, fork anunciado para este 25 de octubre, ha traído un éxodo masivo de capital de las altcoins (criptomonedas otras que bitcoin) hacia bitcoin y la razón para esto es que los usuarios están esperando un acontecimiento igual al sucedido con el anterior fork, Bitcoin Cash.</p><p>En agosto de este año vimos surgir Bitcoin Cash y aquellos afortunados de tener el control sobre su bitcoin pudieron ver grandes ingresos por el simple hecho de tener bitcoins o como algunos miembros de la comunidad lo describieron, fue como hacer dinero del aire.</p><p>Por ejemplo, si tenías 1 BTC, que eran como $2,700 USD del 1ero de agosto, con el fork de Bitcoin Cash ganaste otros $382 para esa misma fecha. Unos días después Bitcoin Cash pudo llegar a su máximo de ~$800 USD. ¿Ya puedes imaginar por que todos se van ahora?</p><p>Si bien es un hecho que el fork se dará y que Bitcoin Gold tendrá un valor del cual sólo podríamos especular, la realidad es que no sabemos si se sucederá de la misma manera que con Bitcoin Cash y es que los grupos involucrados no son lo mismo.</p><p>Podrías ver este suceso como la oportunidad pero nosotros nos referimos más específicamente a las altcoins y es que este éxodo ha dejado al descubierto el tesoro y tenemos nuevos precios de las altcoins los cuales probablemente no volvamos a ver en mucho tiempo ya que han caído a niveles récord y no, no es en nada malo, es el mercado y es la oportunidad.</p><p>Así que estos son días de oportunidad, elige tus proyectos favoritos e invierte en ellos.</p><p>“Buy low, sell high”</p><div class=\"card card-inverse card-warning mb-4 text-center\">    <div class=\"card-block\">        <p>¿Quieres saber que altcoins tienen potencial?</p>        <p>        Suscríbete a nuestro newsletter para recibir nuestras guías y reportes.        </p>        <a href=\"#mc-embedded-subscribe-form\" class=\"btn btn-primary bg-black\">Suscribirme</a>    </div></div>",
+            "url": "http://localhost:4000/noticias/2017/10/09/oportunidad-a-la-vista.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1507589493/oportunidad-a-la-vista_wkxopm.jpg",
+            "date": "9 de octubre del 2017",
+            "tag": "oportunidad",
+            
+            
+            
+            "tags": ["oportunidad","lisk","litecoin","omisego","ethereum"],
+            
+            "date_published": "2017-10-09T00:00:00-06:00",
+            "date_modified": "2017-10-09T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/referencia/2017/10/06/segwit2x-que-es-y-por-que-importa.html",
+            "title": "SegWit2x ¿qué es y por qué importa?",
+            "summary": "La historia de SegWit2x es una historia por el control de Bitcoin, hay muchas cuestiones técnicas pero estas sólo buscan alejarnos de la verdadera intención que pretende esta actualización del protocolo.",
+            "content_text": "La historia de SegWit2x es una historia por el control de Bitcoin, hay muchas cuestiones técnicas pero estas sólo buscan alejarnos de la verdadera intención que pretende esta actualización del protocolo.No hace mucho los programadores de bitcoin dieron con una solución para mejorar el protocolo, esta actualización fue SegWit.Por allá de los comienzos de bitcoin uno de los mineros consiguió aprovecharse del protocolo para conseguir mayores ganancias pero con SegWit su ambición por controlar esta criptomoneda se veía en riesgo.Ciertamente esto alteró a este minero al darse cuenta de este problema y comenzó una cruzada para evitar la implementación de SegWit.Así pues ideó un plan para retomar el control y esto lo lograría deshaciendose de quienes comenzaron el problema: los programadores.Todo esto llevo a una reunión entre las partes involucradas, mineros, desarrolladores y empresas. En esta reunión el minero propuso algunos ajustes técnicos (el minero está bien asesorado) pero los programadores se percataron que estos ajustes implicarían el eventual control corporativo sobre bitcoin.De tal manera y en vista del fracaso el minero comenzó a comprar e invertir en otras empresas importantes para bitcoin. Cabe destacar que estas empresas que solían apoyar a los programadores de bitcoin pero cambiaron de opinión de la noche a la mañana y comenzaron a apoyar a los mineros.El minero no sólo compró empresas y acciones de estas si no que también consiguió alianzas con gente que de igual forma deseaban el control sobre Bitcoin.Este personaje se declaró totalmente en contra de SegWit y comenzó un campaña de desinformación, la cual continua al día de hoy. Muchos de los usuarios de bitcoin cayeron en la trampa de su propaganda.Todo este conflicto llevó a otra reunión conocida como el acuerdo de Nueva York (NYA). Aquí el minero y sus seguidores proponen SegWit2x el cual es una especie de SegWit pero bajo sus términos.Aún así SegWit salió ganador, el minero perdió así que procedió a la creación de una moneda a partir de Bitcoin la cual conocemos como Bitcoin Cash o Bcash para algunos. Esta moneda es promovida por el minero y su grupo como el “verdadero Bitcoin” pero fuer rechazada por la mayor parte de los usuarios y esto ocasionó un desplome en su precio pero el minero no se podía quedar con las manos cruzadas e inyecto dinero de su propio bolsillo para rescatarle.El minero sigue buscando el control mediante el uso de propaganda y ciertamente no descansará; lo interesante es que al fracasar su campaña de Bitcoin Cash como el Bitcoin original su agenda a quedado totalmente al descubierto.Y esto es SegWit2x. Saca tus propias conclusiones.\t",
+            "content_html": "<p>La historia de SegWit2x es una historia por el control de Bitcoin, hay muchas cuestiones técnicas pero estas sólo buscan alejarnos de la verdadera intención que pretende esta actualización del protocolo.</p><p>No hace mucho los programadores de bitcoin dieron con una solución para mejorar el protocolo, esta actualización fue SegWit.</p><p>Por allá de los comienzos de bitcoin uno de los mineros consiguió aprovecharse del protocolo para conseguir mayores ganancias pero con SegWit su ambición por controlar esta criptomoneda se veía en riesgo.</p><p>Ciertamente esto alteró a este minero al darse cuenta de este problema y comenzó una cruzada para evitar la implementación de SegWit.</p><p>Así pues ideó un plan para retomar el control y esto lo lograría deshaciendose de quienes comenzaron el problema: los programadores.</p><p>Todo esto llevo a una reunión entre las partes involucradas, mineros, desarrolladores y empresas. En esta reunión el minero propuso algunos ajustes técnicos (el minero está bien asesorado) pero los programadores se percataron que estos ajustes implicarían el eventual control corporativo sobre bitcoin.</p><p>De tal manera y en vista del fracaso el minero comenzó a comprar e invertir en otras empresas importantes para bitcoin. Cabe destacar que estas empresas que solían apoyar a los programadores de bitcoin pero cambiaron de opinión de la noche a la mañana y comenzaron a apoyar a los mineros.</p><p>El minero no sólo compró empresas y acciones de estas si no que también consiguió alianzas con gente que de igual forma deseaban el control sobre Bitcoin.</p><p>Este personaje se declaró totalmente en contra de SegWit y comenzó un campaña de desinformación, la cual continua al día de hoy. Muchos de los usuarios de bitcoin cayeron en la trampa de su propaganda.</p><p>Todo este conflicto llevó a otra reunión conocida como el acuerdo de Nueva York (NYA). Aquí el minero y sus seguidores proponen SegWit2x el cual es una especie de SegWit pero bajo sus términos.</p><p>Aún así SegWit salió ganador, el minero perdió así que procedió a la creación de una moneda a partir de Bitcoin la cual conocemos como Bitcoin Cash o Bcash para algunos. Esta moneda es promovida por el minero y su grupo como el “verdadero Bitcoin” pero fuer rechazada por la mayor parte de los usuarios y esto ocasionó un desplome en su precio pero el minero no se podía quedar con las manos cruzadas e inyecto dinero de su propio bolsillo para rescatarle.</p><p>El minero sigue buscando el control mediante el uso de propaganda y ciertamente no descansará; lo interesante es que al fracasar su campaña de Bitcoin Cash como el Bitcoin original su agenda a quedado totalmente al descubierto.</p><p>Y esto es SegWit2x. Saca tus propias conclusiones.</p><p style=\"text-align: center;\">\t<img src=\"http://res.cloudinary.com/yipster/image/upload/v1507327541/Bitcoin_en_guerra_v1.2_k7cr2a.jpg\" alt=\"\" width=\"100%\" /></p><!-- **Referencias**[https://www.lendacademy.com/wu-jihan-blockchain-split/](https://www.lendacademy.com/wu-jihan-blockchain-split/)[dcg.co/portfolio/](dcg.co/portfolio/)[https://www.crunchbase.com/organization/bitmain/investors](https://www.crunchbase.com/organization/bitmain/investors)[https://www.crunchbase.com/organization/bitmain#/entity](https://www.crunchbase.com/organization/bitmain#/entity)[https://www.reddit.com/r/Bitcoin/comments/749ncf/dont_forget_that_jeff_garzik_is_probably_just_the/](https://www.reddit.com/r/Bitcoin/comments/749ncf/dont_forget_that_jeff_garzik_is_probably_just_the/)[https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/](https://qz.com/1053799/chinas-bitmain-dominates-bitcoin-mining-now-it-wants-to-cash-in-on-artificial-intelligence/) -->",
+            "url": "http://localhost:4000/referencia/2017/10/06/segwit2x-que-es-y-por-que-importa.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1507328680/segwit2x_q9kuwa.jpg",
+            "date": "6 de octubre del 2017",
+            "tag": "segwit2x",
+            
+            
+            
+            "tags": ["segwit2x","bitcoin","criptomoneda"],
+            
+            "date_published": "2017-10-06T00:00:00-06:00",
+            "date_modified": "2017-10-06T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/10/05/empresas-se-mueven-por-el-control-de-bitcoin.html",
+            "title": "Empresas se mueven por el control de bitcoin",
+            "summary": "Recientemente en las redes sociales se puede ver una disputa acalorada entre los miembros de la comunidad de Bitcoin y es que nos encontramos a un mes de la posible actualización del código el cual se teme permita a corporativos tomar el control sobre el protocolo.",
+            "content_text": "Recientemente en las redes sociales se puede ver una disputa acalorada entre los miembros de la comunidad de Bitcoin y es que nos encontramos a un mes de la posible actualización del código el cual se teme permita a corporativos tomar el control sobre el protocolo.El siguiente es un mapa que pretende mostrar visualmente la situación actual de bitcoin, la posición de sus protagonistas así como las empresas a las que pertenecen.Observa y reflexiona acerca de lo que podría pasar y actúa a conciencia.",
+            "content_html": "<p>Recientemente en las redes sociales se puede ver una disputa acalorada entre los miembros de la comunidad de Bitcoin y es que nos encontramos a un mes de la posible actualización del código el cual se teme permita a corporativos tomar el control sobre el protocolo.</p><p>El siguiente es un mapa que pretende mostrar visualmente la situación actual de bitcoin, la posición de sus protagonistas así como las empresas a las que pertenecen.</p><p>Observa y reflexiona acerca de lo que podría pasar y actúa a conciencia.</p><p><img src=\"http://res.cloudinary.com/yipster/image/upload/v1507327541/Bitcoin_en_guerra_v1.2_k7cr2a.jpg\" alt=\"Control corporativo sobre Bitcoin\" width=\"100%;\" /></p>",
+            "url": "http://localhost:4000/noticias/2017/10/05/empresas-se-mueven-por-el-control-de-bitcoin.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1507327541/Bitcoin_en_guerra_v1.2_k7cr2a.jpg",
+            "date": "5 de octubre del 2017",
+            "tag": "bitcoin",
+            
+            
+            
+            "tags": ["bitcoin","NO2X","segwit2x"],
+            
+            "date_published": "2017-10-05T00:00:00-06:00",
+            "date_modified": "2017-10-05T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/10/01/bitcoin-hard-fork-y-la-campana-no2x.html",
+            "title": "¿Qué es NO2X?",
+            "summary": "NO2X se refiere a la reciente campaña en contra de la actualización de Bitcoin a SegWit2x o btc1.",
+            "content_text": "NO2X se refiere a la reciente campaña en contra de la actualización de Bitcoin a SegWit2x o btc1. Si no has estado pendiente o eres nuevo en la comunidad esto no te sonará nada familiar; es todo un drama y es toda una historia por sí misma, pero lo que debes saber, sin meternos en detalles, es que es una adición al código para “mejorar el rendimiento de las transacciones”.Twitter es una batalla campal entre los líderes de ambas posiciones protagonizado por Charlie Lee uno de los primeros activistas del Bitcoin, creador de Litecoin y quien está en contra de SegWit2x, promotor de la campaña NO2X (su creador es @StopAndDecrypt); y por otro lado Roger Ver, inversionista también pionero del blockchain.Ambos individuos son muy reconocidos en este ámbito.Algunos de los puntos por los que una parte de la comunidad está en contra:  SegWitx1 no está implementado al 100% por tanto no se necesita SegWit2x.  Es más importante mantener la decentralización, la resistencia a la censura si es que quiere sobrevivir los ataques de los gobiernos.  Por el motivo de que una medida de seguridad como replay protection no esta añadida al código de btc1 esto ocasionaría un caos en las transacciones y el daño a bitcoin podría ser severo. En caso de que se bifurque bitcoin se crearía otra moneda y sin esta protección las transacciones realizadas entre una y otra podrían cruzarse como si fuesen la misma red… ya te podrás imaginar las consecuencias de eso.Los puntos anteriores son enlistados por un socio inversionista de ShapeShift, compañía de Erik Voorhees, una de las personas que empuja SegWit2x y que a su vez también recibió inversión de Roger Ver. ¿Puedes ver más clara la foto?Este inversionista menciona también que desde su perspectiva la intención final de SW2X no es otra más que remover al equipo de desarrolladores (Bictoin Core), “no hay otro grupo (Bitcoin Core) que tenga toda esa masa crítica y habilidad técnica para poder liderar el desarrollo de Bitcoin”Las tensiones son cada vez mayores sin embargo la mayoría de la comunidad se posiciona en contra del SegWit2x; esto no nos garantiza nada pues con toda certeza Roger Ver y el resto seguirán empujando esta división y además tiene el capital para hacerlo.Lista de compañías que empujan SegWit2xhttps://medium.com/@DCGco/bitcoin-scaling-agreement-at-consensus-2017-133521fe9a77            ¿Quieres saber cómo proceder con esta posible división, evitar riesgos y sacar el mejor provecho?                Suscríbete a nuestro newsletter para recibir nuestras guías y reportes.                Suscribirme    ",
+            "content_html": "<p>NO2X se refiere a la reciente campaña en contra de la actualización de Bitcoin a SegWit2x o btc1. Si no has estado pendiente o eres nuevo en la comunidad esto no te sonará nada familiar; es todo un drama y es toda una historia por sí misma, pero lo que debes saber, sin meternos en detalles, es que es una adición al código para “mejorar el rendimiento de las transacciones”.</p><p>Twitter es una batalla campal entre los líderes de ambas posiciones protagonizado por Charlie Lee uno de los primeros activistas del Bitcoin, creador de Litecoin y quien está en contra de SegWit2x, promotor de la campaña NO2X (su creador es @StopAndDecrypt); y por otro lado Roger Ver, inversionista también pionero del blockchain.</p><p>Ambos individuos son muy reconocidos en este ámbito.</p><p>Algunos de los puntos por los que una parte de la comunidad está en contra:</p><ul>  <li>SegWitx1 no está implementado al 100% por tanto no se necesita SegWit2x.</li>  <li>Es más importante mantener la decentralización, la resistencia a la censura si es que quiere sobrevivir los ataques de los gobiernos.</li>  <li>Por el motivo de que una medida de seguridad como <strong>replay protection</strong> no esta añadida al código de <strong>btc1</strong> esto ocasionaría un caos en las transacciones y el daño a bitcoin podría ser severo. En caso de que se bifurque bitcoin se crearía otra moneda y sin esta protección las transacciones realizadas entre una y otra podrían cruzarse como si fuesen la misma red… ya te podrás imaginar las consecuencias de eso.</li></ul><p>Los puntos anteriores son enlistados por un socio inversionista de ShapeShift, compañía de Erik Voorhees, una de las personas que empuja SegWit2x y que a su vez también recibió inversión de Roger Ver. ¿Puedes ver más clara la foto?</p><p>Este inversionista menciona también que desde su perspectiva la intención final de SW2X no es otra más que remover al equipo de desarrolladores (Bictoin Core), “no hay otro grupo (Bitcoin Core) que tenga toda esa masa crítica y habilidad técnica para poder liderar el desarrollo de Bitcoin”</p><p><img src=\"http://res.cloudinary.com/yipster/image/upload/v1506925024/bnktothefuture_bzmtce.jpg\" alt=\"\" width=\"50%\" /></p><p>Las tensiones son cada vez mayores sin embargo la mayoría de la comunidad se posiciona en contra del SegWit2x; esto no nos garantiza nada pues con toda certeza Roger Ver y el resto seguirán empujando esta división y además tiene el capital para hacerlo.</p><p><strong>Lista de compañías que empujan SegWit2x</strong></p><p>https://medium.com/@DCGco/bitcoin-scaling-agreement-at-consensus-2017-133521fe9a77</p><div class=\"card card-inverse card-warning mb-4 text-center\">    <div class=\"card-block\">        <p>¿Quieres saber cómo proceder con esta posible división, evitar riesgos y sacar el mejor provecho?</p>        <p>        Suscríbete a nuestro newsletter para recibir nuestras guías y reportes.        </p>        <a href=\"#mc-embedded-subscribe-form\" class=\"btn btn-primary bg-black\">Suscribirme</a>    </div></div>",
+            "url": "http://localhost:4000/noticias/2017/10/01/bitcoin-hard-fork-y-la-campana-no2x.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1506927662/bitcoin-split-no2x_z8pejv.jpg",
+            "date": "1 de octubre del 2017",
+            "tag": "bitcoin",
+            
+            
+            
+            "tags": ["bitcoin","marketcap"],
+            
+            "date_published": "2017-10-01T00:00:00-06:00",
+            "date_modified": "2017-10-01T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/09/30/cesa-el-miedo-en-el-mercado-de-criptomonedas.html",
+            "title": "Cesa el miedo en el mercado de criptomonedas",
+            "summary": "El mercado de las criptomonedas se vió a prueba estas últimas semanas y es que sufrió múltiples ataques de distintos flancos, desde cierre de exchanges en China hasta declaraciones negativas de genete \"respetada\" en el medio de la finanzas; pero muy a pesar de ello el mercado ha salido victorioso y podemos ver un repunte",
+            "content_text": "El mercado de las criptomonedas se vio a prueba estas últimas semanas y es que sufrió múltiples ataques de distintos flancos, desde cierre de exchanges en China hasta declaraciones negativas de gente “respetada” en el medio de la finanzas; pero muy a pesar de ello el mercado ha salido victorioso y podemos ver un repunte en su capitalización bursátil aumentando a 147 mil millones de dólares.Éste resultado nos habla de que el mercado de criptomonedas es más fuerte de lo que muchos expertos esperaban y es por ello que, tras todos esos ataques, Christine Lagarde (directora del Fondo Monetario Internacional) declaró en una conferencia  que “Ignorar las criptomonedas no es algo inteligente de hacer”.Cabe recordar que ella misma en ocasiones anteriores se declaró en contra de las criptomonedas por la razón de que son “muy volátiles, muy riesgosas, consumen mucha energía y no son escalables”.Por otro lado China cerró los exchanges hace unas semanas y hoy mismo comunica que permitirá que algunos exchanges puedan operar de nuevo.Esta situación nos deja ver que los gobiernos e instituciones financieras aún no saben cómo deben actuar y es que las criptomonedas corren en otro paradigma en su totalidad.ConclusiónEsta es sólo una batalla y vendrán muchas más. Lo que podemos comenzar a ver es que estos grupos de poder están comenzando a dividir a la comunidad de Bitcoin (las más importante de las criptomonedas al día de hoy) y por ese lado es que veremos la próxima batalla en las semanas por venir (noviembre 2017).GlosarioLa capitalización bursátil se refiere al valor total de una empresa o en este contexto al valor total del mercado de criptomonedas.",
+            "content_html": "<p>El mercado de las criptomonedas se vio a prueba estas últimas semanas y es que sufrió múltiples ataques de distintos flancos, desde cierre de exchanges en China hasta declaraciones negativas de gente “respetada” en el medio de la finanzas; pero muy a pesar de ello el mercado ha salido victorioso y podemos ver un repunte en su <a href=\"#market_cap\">capitalización bursátil</a> aumentando a 147 mil millones de dólares.</p><p>Éste resultado nos habla de que el mercado de criptomonedas es más fuerte de lo que muchos expertos esperaban y es por ello que, tras todos esos ataques, Christine Lagarde (directora del Fondo Monetario Internacional) declaró en una conferencia  que “Ignorar las criptomonedas no es algo inteligente de hacer”.</p><p>Cabe recordar que ella misma en ocasiones anteriores se declaró en contra de las criptomonedas por la razón de que son “muy volátiles, muy riesgosas, consumen mucha energía y no son escalables”.</p><p>Por otro lado China cerró los exchanges hace unas semanas y hoy mismo comunica que permitirá que algunos exchanges puedan operar de nuevo.</p><p>Esta situación nos deja ver que los gobiernos e instituciones financieras aún no saben cómo deben actuar y es que las criptomonedas corren en otro paradigma en su totalidad.</p><p><strong>Conclusión</strong></p><p>Esta es sólo una batalla y vendrán muchas más. Lo que podemos comenzar a ver es que estos grupos de poder están comenzando a dividir a la comunidad de Bitcoin (las más importante de las criptomonedas al día de hoy) y por ese lado es que veremos la próxima batalla en las semanas por venir (noviembre 2017).</p><p><strong>Glosario</strong></p><p><span id=\"market_cap\">La <em>capitalización bursátil</em> se refiere al valor total de una empresa o en este contexto al valor total del mercado de criptomonedas.</span></p>",
+            "url": "http://localhost:4000/noticias/2017/09/30/cesa-el-miedo-en-el-mercado-de-criptomonedas.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1506793746/cesa-miedo-mercado-criptomonedas_bxglqs.jpg",
+            "date": "30 de septiembre del 2017",
+            "tag": "bitcoin",
+            
+            
+            
+            "tags": ["bitcoin","marketcap"],
+            
+            "date_published": "2017-09-30T00:00:00-06:00",
+            "date_modified": "2017-09-30T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/09/29/mas-de-la-mitad-de-las-grandes-companias-del-mundo-investigan-el-potencial-del-blockchain.html",
+            "title": "Más de la mitad de las grandes compañías del mundo investigan el potencial del Blockchain",
+            "summary": "Se encontró que 6 de cada 10 grandes empresas están considerando seriamente integrar el blockchain en sus sistema o ya están en el proceso de hacerlo.",
+            "content_text": "Juniper Research, una compañía consultora que se dedica a la investigación del mercados con potencial crecimiento recientemente a publicado el resultado de una de sus investigaciones sobre el Blockchain.En esta investigación se encontró que 6 de cada 10 grandes empresas están considerando seriamente integrar el blockchain en sus sistema o ya están en el proceso de hacerlo.Las compañías que ya han comenzado a integrar el blokchain (66%) en sus sistema estiman que para finales del 2018 hayan finalizado con esa tarea.Las empresas mencionan también que ven mucho potencial pero también algo de riesgo y entre las cosas que destacan como potenciales son:  Dinero fiat digital  Registro de propiedades  Establecer acuerdosReferenciahttps://www.juniperresearch.com/press/press-releases/6-in-10-large-corporations-considering-blockhain",
+            "content_html": "<p>Juniper Research, una compañía consultora que se dedica a la investigación del mercados con potencial crecimiento recientemente a publicado el resultado de una de sus investigaciones sobre el Blockchain.</p><p>En esta investigación se encontró que 6 de cada 10 grandes empresas están considerando seriamente integrar el blockchain en sus sistema o ya están en el proceso de hacerlo.</p><p>Las compañías que ya han comenzado a integrar el blokchain (66%) en sus sistema estiman que para finales del 2018 hayan finalizado con esa tarea.</p><p>Las empresas mencionan también que ven mucho potencial pero también algo de riesgo y entre las cosas que destacan como potenciales son:</p><ul>  <li>Dinero fiat digital</li>  <li>Registro de propiedades</li>  <li>Establecer acuerdos</li></ul><p><strong>Referencia</strong></p><p><a href=\"https://www.juniperresearch.com/press/press-releases/6-in-10-large-corporations-considering-blockhain\">https://www.juniperresearch.com/press/press-releases/6-in-10-large-corporations-considering-blockhain</a></p>",
+            "url": "http://localhost:4000/noticias/2017/09/29/mas-de-la-mitad-de-las-grandes-companias-del-mundo-investigan-el-potencial-del-blockchain.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1506741418/6-of-10-companies-adopting-blockchain_pn3oe0.jpg",
+            "date": "29 de septiembre del 2017",
+            "tag": "blockchain",
+            
+            
+            
+            "tags": ["blockchain","investigacion"],
+            
+            "date_published": "2017-09-29T00:00:00-06:00",
+            "date_modified": "2017-09-29T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/09/28/corea-del-sur-veta-icos.html",
+            "title": "Corea del Sur veta ICOs",
+            "summary": "El regulador financiero de Corea del Sur ha anunciado este viernes el la medida de vetar todo forma de levantar fondos a través de criptomonedas principalmente..",
+            "content_text": "El regulador financiero de Corea del Sur ha anunciado este viernes la medida de vetar todo tipo de forma que levante fondos a través de criptomonedas principalmente ICOs. Esto no es nada nuevo en el sentido que otros países como China, Estados Unidos y Singapur ya han tomado esta medida previamente.Corea “no pretende otra cosa” más que evitar que sus propios ciudadanos no se lastimen a sí mismos ya que los ICOs fraudulentos están en aumento.La medida podría afectar el mercado de Ethereum ya que Corea del Sur es el país que tiene el mayor mercado de ether en el mundo.    GlosarioUn ICO o Initial Coin Offering  es algo similar  a lo que las empresas que se lanzarán a la bolsa de valores hacen y llaman IPO  o Initial Public Offering. La idea de esto es levantar fondos para otorgar liquidez a la empresa y la ventaja de quienes participan es el aumento del valor de su inversión conforme la empresa progresa; pero también implica un gran riesgo ya que si la empresa no entrega lo que prometió esta se va a la ruina y tu inversión con ello.Referenciahttp://news1.kr/articles/?3114917",
+            "content_html": "<p>El regulador financiero de Corea del Sur ha anunciado este viernes la medida de vetar todo tipo de forma que levante fondos a través de criptomonedas principalmente <a href=\"#ico\"><strong>ICOs</strong></a>. Esto no es nada nuevo en el sentido que otros países como China, Estados Unidos y Singapur ya han tomado esta medida previamente.</p><p>Corea “no pretende otra cosa” más que evitar que sus propios ciudadanos no se lastimen a sí mismos ya que los <a href=\"#ico\"><strong>ICOs</strong></a> fraudulentos están en aumento.</p><p>La medida podría afectar el mercado de Ethereum ya que Corea del Sur es el país que tiene el mayor mercado de ether en el mundo.</p><p class=\"center\">    <img src=\"http://res.cloudinary.com/yipster/image/upload/v1506662010/mercado-ether-corea_uxocba.jpg\" alt=\"Mercado de Ethereum en el Mundo\" /></p><p><strong>Glosario</strong></p><p>Un <span id=\"ico\"><strong>ICO</strong></span> o <em>Initial Coin Offering</em>  es algo similar  a lo que las empresas que se lanzarán a la bolsa de valores hacen y llaman IPO  o <em>Initial Public Offering</em>. La idea de esto es levantar fondos para otorgar liquidez a la empresa y la ventaja de quienes participan es el aumento del valor de su inversión conforme la empresa progresa; pero también implica un gran riesgo ya que si la empresa no entrega lo que prometió esta se va a la ruina y tu inversión con ello.</p><p><strong>Referencia</strong></p><p><a href=\"http://news1.kr/articles/?3114917\">http://news1.kr/articles/?3114917</a></p>",
+            "url": "http://localhost:4000/noticias/2017/09/28/corea-del-sur-veta-icos.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1506662181/corea-ico-ban_alv8rm.jpg",
+            "date": "29 de septiembre del 2017",
+            "tag": "corea",
+            
+            
+            
+            "tags": ["corea","veto","criptomonedas"],
+            
+            "date_published": "2017-09-28T00:00:00-06:00",
+            "date_modified": "2017-09-28T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/noticias/2017/09/28/atomic-swap-que-son-y-por-que-son-una-excelente-noticia.html",
+            "title": "Atomic Swap qué son y por qué son una excelente noticia.",
+            "summary": "Un atomic swap básicamante es una transacción entre dos blockchains distintos sin la necesidad de un tercero como lo son las casas de cambio o exchanges. El concepto es muy simple pero las implicaciones de esto son muy grandes y prometedoras.",
+            "content_text": "El los últimos días hemos escuchado mucho hablar sobre Atomic Swap y en tan poco tiempo ya comienzan hacer demasiado ruido y quizá hasta hacen temblar a muchas de las empresas que basan sus negocios en las criptomonedas.Un atomic swap básicamente es una transacción entre dos blockchains distintos sin la necesidad de un tercero como lo son las casas de cambio o exchanges. El concepto es muy simple pero las implicaciones de esto son muy grandes y prometedoras.El problemaCómo dije antes, el concepto es simple pero para llegar a esa solución varios problemas comunes tienen que ser resueltos como la confianza.Por ejemplo si tu quisieras hacer un intercambio con alguien y este individuo vive lejos ¿enviarías tu dinero con la esperanza de que cumpla su promesa? claro que no! y es por esta razón que acudimos a terceros para realizar este tiempo de transacción.En el mundo de las criptomonedas es igual, si yo quiero cambiar bitcoins por litecoins lo que yo haría es intercambiarlos por medio de un exchange, esto implica tarifas, o también podría buscar alguna persona en mi ciudad que quiera hacer el intercambio, sin embargo también corremos un cierto riesgo de esta manera.La soluciónYa que el mundo de las criptomonedas es digital tenemos una ventaja a favor por esta característica puesto que en una transacción de intercambio se puede hacer que una operación dependa de la otra, o en otras palabras, que sea imposible que una transacción se complete si alguna de las dos partes involucradas no cumplen con los requisitos.Pongamos un ejemplo simple, de un intercambio entre tú y yo, para ilustrar como se lleva a cabo el proceso. Digamos que tu quieres Bitcoins y yo quiero tus Litecoins.  Pongo los bitcoins en la caja A que te enviaré  A esta caja A le asignare una contraseña, sin esta no podrás abrirla  Tú pones tus litecoins en la caja B la cual yo no podré abrir si no te entrego la contraseña que abre la caja A.Simplificando, yo te entrego la contraseña que abre tu caja y tu al abrir tu caja también abrirá la mía.Ciertamente esto funciona automáticamente, nosotros no tenemos que crear esas “cajas”. 😆He de decir que el sistema que nos permite este tipo de transacción está en las primeras fases y  no todas las criptomonedas, al día de hoy, son compatibles con atomic swaps puesto que las tecnologías de estas deben ser compatibles. Sin embargo podemos esperar la adopción de esta tecnología en muchos de los proyectos más importantes y eventualemnte podremos ver exchanges totolamente en el blockchain, descentralizados.",
+            "content_html": "<p>El los últimos días hemos escuchado mucho hablar sobre Atomic Swap y en tan poco tiempo ya comienzan hacer demasiado ruido y quizá hasta hacen temblar a muchas de las empresas que basan sus negocios en las criptomonedas.</p><p>Un <strong>atomic swap</strong> básicamente es una transacción entre dos blockchains distintos sin la necesidad de un tercero como lo son las <em>casas de cambio</em> o <em>exchanges</em>. El concepto es muy simple pero las implicaciones de esto son muy grandes y prometedoras.</p><p><strong>El problema</strong></p><p>Cómo dije antes, el concepto es simple pero para llegar a esa solución varios problemas comunes tienen que ser resueltos como <em>la confianza</em>.</p><p>Por ejemplo si tu quisieras hacer un intercambio con alguien y este individuo vive lejos ¿enviarías tu dinero con la esperanza de que cumpla su promesa? claro que no! y es por esta razón que acudimos a terceros para realizar este tiempo de transacción.</p><p>En el mundo de las criptomonedas es igual, si yo quiero cambiar bitcoins por litecoins lo que yo haría es intercambiarlos por medio de un exchange, esto implica tarifas, o también podría buscar alguna persona en mi ciudad que quiera hacer el intercambio, sin embargo también corremos un cierto riesgo de esta manera.</p><p><strong>La solución</strong></p><p>Ya que el mundo de las criptomonedas es digital tenemos una ventaja a favor por esta característica puesto que en una transacción de intercambio se puede hacer que una operación dependa de la otra, o en otras palabras, que sea imposible que una transacción se complete si alguna de las dos partes involucradas no cumplen con los requisitos.</p><p>Pongamos un ejemplo simple, de un intercambio entre tú y yo, para ilustrar como se lleva a cabo el proceso. Digamos que tu quieres Bitcoins y yo quiero tus Litecoins.</p><ul>  <li>Pongo los bitcoins en la caja A que te enviaré</li>  <li>A esta caja A le asignare una contraseña, sin esta no podrás abrirla</li>  <li>Tú pones tus litecoins en la caja B la cual yo no podré abrir si no te entrego la contraseña que abre la caja A.</li></ul><p>Simplificando, yo te entrego la contraseña que abre tu caja y tu al abrir tu caja también abrirá la mía.</p><p>Ciertamente esto funciona automáticamente, nosotros no tenemos que crear esas “cajas”. 😆</p><p>He de decir que el sistema que nos permite este tipo de transacción está en las primeras fases y  no todas las criptomonedas, al día de hoy, son compatibles con atomic swaps puesto que las tecnologías de estas deben ser compatibles. Sin embargo podemos esperar la adopción de esta tecnología en muchos de los proyectos más importantes y eventualemnte podremos ver exchanges totolamente en el blockchain, descentralizados.</p>",
+            "url": "http://localhost:4000/noticias/2017/09/28/atomic-swap-que-son-y-por-que-son-una-excelente-noticia.html",
+            "cover": "https://res.cloudinary.com/yipster/image/upload/v1506631848/atomic-swaps_v8tmkx.jpg",
+            "date": "28 de septiembre del 2017",
+            "tag": "litecoin",
+            
+            
+            
+            "tags": ["litecoin","bitcoin","decred","atomicswaps"],
+            
+            "date_published": "2017-09-28T00:00:00-06:00",
+            "date_modified": "2017-09-28T00:00:00-06:00",
+            
+                "author": 
+                ""
+                
+            
+        }
+    
+    ]
+}

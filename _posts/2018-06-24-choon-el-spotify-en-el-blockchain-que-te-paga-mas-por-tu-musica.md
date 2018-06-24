@@ -9,7 +9,7 @@ tag: choon
 cover: "http://res.cloudinary.com/yipster/image/upload/v1529862760/choon-better-spotify_wrbol2.jpg"
 twitter_cover: "http://res.cloudinary.com/yipster/image/upload/v1529862760/choon-better-spotify_wrbol2.jpg" 
 comments: true
-url: 
+url: "/choon-el-spotify-en-el-blockchain-que-te-paga-mas-por-tu-musica"
 ---
 
 Con toda seguridad estás familiarizado con Spotify y si eres compositor/a hasta has de publicar tu música ahí pero Spotify tiene un gran problema, apesta para los músicos.

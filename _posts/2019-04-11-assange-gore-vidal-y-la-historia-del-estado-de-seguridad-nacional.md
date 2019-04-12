@@ -12,6 +12,9 @@ comments: true
 url: "/assange-gore-vidal-y-la-historia-del-estado-de-seguridad-nacional"
 ---
 
+
+<img src="https://res.cloudinary.com/yipster/image/upload/v1555047878/assange-gore-vidal-y-la-historia-del-estado-de-seguridad-nacional_dogpo7.jpg" width="100%">
+
 El arresto de Asange ha tomado por sorpresa a muchos, a otros no tanto pues desde hace días un _soplón_ ha estado avisando que esto sucedería muy pronto.
 
 La libertad de prensa pierde hoy pero no importará pues se pierde mucho más que eso de no hacerse algo al respecto.

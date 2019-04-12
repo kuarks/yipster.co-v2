@@ -5,7 +5,7 @@ fecha: '24 de Junio del 2018'
 date: 2019-04-11 23:35 -0600
 categories: noticias 
 description: "El arresto de Asange ha tomado por sorpresa a muchos, a otros no tanto pues desde hace días un _soplón_ ha estado avisando que esto sucedería muy pronto."
-tag: choon
+tag: assange
 cover: "https://res.cloudinary.com/yipster/image/upload/v1555047878/assange-gore-vidal-y-la-historia-del-estado-de-seguridad-nacional_dogpo7.jpg"
 twitter_cover: "https://res.cloudinary.com/yipster/image/upload/v1555047878/assange-gore-vidal-y-la-historia-del-estado-de-seguridad-nacional_dogpo7.jpg" 
 comments: true
